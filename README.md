@@ -32,3 +32,16 @@ pip install -r requirements.txt
 3. Add the classification categories for that type to `classification_options.json`.
 
 4. Run `classify.py` and begin classifying. Results are on results.csv. It will not ask you to classify something previously classified.
+5. 
+# Functions
+- Stores synthetic datasets in JSON format, organized by type (e.g. `dataset-note`, `dataset-task`, etc.)
+- Provides a console-based checklist interface using `questionary` for easy classification
+- Allows selecting the current validator and dataset type at runtime
+- Automatically skips files already labeled by the current user
+- Displays each document's contents in a readable format, with:
+  - Pretty-printed JSON for structured fields
+  - Detects and cleans up embedded HTML if present in any text fields
+  - Long-form fields (like `"content"` or `"body"`) rendered as clean, line-broken panels
+- "❌ Exit" at any classification point to stop the session
+- Saves results incrementally to `results.csv`
+
