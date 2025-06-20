@@ -4,6 +4,8 @@ import csv
 from pathlib import Path
 import questionary
 from rich import print_json
+from rich.panel import Panel
+from rich.console import Console
 from bs4 import BeautifulSoup
 
 
@@ -14,6 +16,8 @@ RESULTS_CSV = "results.csv"
 VALIDATORS = ["ALVARO", "VIRGINIA", "PAUL", "CARLOS"]
 
 FIELDNAMES = ['file', 'dataset'] + VALIDATORS
+
+console = Console()
 
 def load_classification_options():
     with open(OPTIONS_PATH, "r") as f:
@@ -60,8 +64,21 @@ def save_results(results):
             writer.writerow(row)
 
 
+
+
+def is_long_text(key, value):
+    return (
+        isinstance(value, str)
+        and key.lower() in {"content", "body", "description"}
+        and len(value) > 80
+    )
+
+def clean_text(text):
+    if "\\n" in text:
+        text = text.encode().decode("unicode_escape")
+    return text.strip()
+
 def html_to_text(html_string):
-    """Convert HTML content into plain text."""
     soup = BeautifulSoup(html_string, "html.parser")
     return soup.get_text(separator="\n").strip()
 
@@ -71,15 +88,22 @@ def display_json(filepath):
 
     print(f"\n[bold yellow]--- {filepath.name} ---[/bold yellow]")
 
-    # Detect and clean HTML-like fields
     cleaned = {}
+    extracted_long_texts = {}
+
     for key, value in data.items():
-        if isinstance(value, str) and ("<p" in value or "<div" in value or "</" in value):
-            cleaned[key] = html_to_text(value)
+        if isinstance(value, str) and is_long_text(key, value):
+            if any(tag in value for tag in ("<p", "<div", "<br", "</")):
+                extracted_long_texts[key] = clean_text(html_to_text(value))
+            else:
+                extracted_long_texts[key] = clean_text(value)
         else:
             cleaned[key] = value
 
     print_json(data=cleaned)
+
+    for key, content in extracted_long_texts.items():
+        console.print(Panel(content, title=f"[cyan]{key}", border_style="magenta"))
 
 def classify_files():
     classification_options = load_classification_options()
