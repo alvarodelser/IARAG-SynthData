@@ -4,6 +4,8 @@ import csv
 from pathlib import Path
 import questionary
 from rich import print_json
+from bs4 import BeautifulSoup
+
 
 # CONFIG
 FOLDER_PREFIX = "dataset-"
@@ -57,11 +59,27 @@ def save_results(results):
         for row in results.values():
             writer.writerow(row)
 
+
+def html_to_text(html_string):
+    """Convert HTML content into plain text."""
+    soup = BeautifulSoup(html_string, "html.parser")
+    return soup.get_text(separator="\n").strip()
+
 def display_json(filepath):
     with open(filepath, "r") as f:
         data = json.load(f)
+
     print(f"\n[bold yellow]--- {filepath.name} ---[/bold yellow]")
-    print_json(data=data)
+
+    # Detect and clean HTML-like fields
+    cleaned = {}
+    for key, value in data.items():
+        if isinstance(value, str) and ("<p" in value or "<div" in value or "</" in value):
+            cleaned[key] = html_to_text(value)
+        else:
+            cleaned[key] = value
+
+    print_json(data=cleaned)
 
 def classify_files():
     classification_options = load_classification_options()
