@@ -5,8 +5,20 @@ Repository containing the synthetic dataset created for IARAG and helper classif
 0. Clone the repo and install dependencies:
 
 ```bash
+# Clone the repository
 git clone https://github.com/alvarodelser/IARAG-SynthData.git
 cd IARAG-SynthData
+
+# Create a virtual environment
+python3 -m venv .venv
+
+# Activate the virtual environment
+# On macOS/Linux:
+source .venv/bin/activate
+# On Windows:
+.venv\Scripts\activate
+
+# Install dependencies
 pip install -r requirements.txt
 ```
 
