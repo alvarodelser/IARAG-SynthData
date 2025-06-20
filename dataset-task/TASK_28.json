@@ -1,0 +1,20 @@
+{
+    "id": "Message-1b23c679-d012-2e34-b567-890123456yza",
+    "itemId": "Task-2c34d780-e123-3f45-c678-901234567zab",
+    "createdBy": {
+        "id": "User-3d45e891-f234-4g56-d789-012345678abc",
+        "email": "thomas.lee@synergyos.com",
+        "name": "Thomas Lee"
+    },
+    "modifiedBy": {
+        "id": "User-3d45e891-f234-4g56-d789-012345678abc",
+        "email": "thomas.lee@synergyos.com",
+        "name": "Thomas Lee"
+    },
+    "createdDateTime": 1730976415455,
+    "modifiedDateTime": 1730976415455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Annual Legal Risk Assessment - Global Operations:</span></p><ul><li>Review operational risk matrix</li><li>Assess regulatory compliance risks</li><li>Evaluate contractual exposures</li><li>Review insurance coverage</li><li>Identify emerging legal risks</li><li>Update risk mitigation strategies</li><li>Present findings to board</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: June 30, 2024 | Report: RISK-2024-001</span></p>",
+    "to": ["risk-committee@synergyos.com", "legal-department@synergyos.com"],
+    "cc": ["board-audit@synergyos.com", "insurance-team@synergyos.com"],
+    "attachments": ["Risk_Matrix.xlsx", "Compliance_Assessment.pdf", "Insurance_Review.docx"]
+} 

@@ -1,0 +1,20 @@
+{
+    "id": "Message-4w56x902-y345-5z67-w890-123456789uvw",
+    "itemId": "Task-5x67y013-z456-6a78-x901-234567890vwx",
+    "createdBy": {
+        "id": "User-6y78z124-a567-7b89-y012-345678901wxy",
+        "email": "sophia.brown@synergyos.com",
+        "name": "Sophia Brown"
+    },
+    "modifiedBy": {
+        "id": "User-6y78z124-a567-7b89-y012-345678901wxy",
+        "email": "sophia.brown@synergyos.com",
+        "name": "Sophia Brown"
+    },
+    "createdDateTime": 1730974515455,
+    "modifiedDateTime": 1730974515455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Cybersecurity Training Program Development:</span></p><ul><li>Create training curriculum</li><li>Develop training materials</li><li>Set up online learning platform</li><li>Record video tutorials</li><li>Create assessment questions</li><li>Plan rollout schedule</li><li>Set up tracking system</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Launch Date: May 15, 2024</span></p>",
+    "to": ["training@synergyos.com", "security-team@synergyos.com"],
+    "cc": ["hr-director@synergyos.com"],
+    "attachments": ["Training_Curriculum.docx", "Assessment_Questions.pdf"]
+} 

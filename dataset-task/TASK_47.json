@@ -1,0 +1,20 @@
+{
+    "id": "Message-8g90h346-i789-9j01-g234-567890123def",
+    "itemId": "Task-9h01i457-j890-0k12-h345-678901234efg",
+    "createdBy": {
+        "id": "User-0i12j568-k901-1l23-i456-789012345fgh",
+        "email": "robert.zhang@synergyos.com",
+        "name": "Robert Zhang"
+    },
+    "modifiedBy": {
+        "id": "User-0i12j568-k901-1l23-i456-789012345fgh",
+        "email": "robert.zhang@synergyos.com",
+        "name": "Robert Zhang"
+    },
+    "createdDateTime": 1730978315455,
+    "modifiedDateTime": 1730978315455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Printer on 4th floor keeps jamming. Tried the usual fixes but no luck. Need maintenance.</span></p><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Medium | When possible</span></p>",
+    "to": ["maintenance@synergyos.com"],
+    "cc": [],
+    "attachments": []
+} 

@@ -1,0 +1,20 @@
+{
+    "id": "Message-9x01y457-z890-0a12-x345-678901234uvw",
+    "itemId": "Task-0y12z568-a901-1b23-y456-789012345vwx",
+    "createdBy": {
+        "id": "User-1z23a679-b012-2c34-z567-890123456wxy",
+        "email": "jessica.patel@synergyos.com",
+        "name": "Jessica Patel"
+    },
+    "modifiedBy": {
+        "id": "User-1z23a679-b012-2c34-z567-890123456wxy",
+        "email": "jessica.patel@synergyos.com",
+        "name": "Jessica Patel"
+    },
+    "createdDateTime": 1730978015455,
+    "modifiedDateTime": 1730978015455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Need parking validation for client meeting tomorrow 2-4pm. Three spots.</span></p><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Low | By tomorrow morning</span></p>",
+    "to": ["facilities@synergyos.com"],
+    "cc": [],
+    "attachments": []
+} 

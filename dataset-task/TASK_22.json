@@ -1,0 +1,20 @@
+{
+    "id": "Message-3j45k891-l234-4m56-j789-012345678ghi",
+    "itemId": "Task-4k56l902-m345-5n67-k890-123456789hij",
+    "createdBy": {
+        "id": "User-5l67m013-n456-6o78-l901-234567890ijk",
+        "email": "chris.bennett@synergyos.com",
+        "name": "Chris Bennett"
+    },
+    "modifiedBy": {
+        "id": "User-5l67m013-n456-6o78-l901-234567890ijk",
+        "email": "chris.bennett@synergyos.com",
+        "name": "Chris Bennett"
+    },
+    "createdDateTime": 1730975815455,
+    "modifiedDateTime": 1730975815455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Legal Hold Implementation - Data Privacy Litigation:</span></p><ul><li>Identify custodians and data sources</li><li>Draft legal hold notices</li><li>Configure automated hold in systems</li><li>Schedule custodian interviews</li><li>Document preservation protocols</li><li>Set up monitoring procedures</li><li>Create compliance tracking system</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Critical | Implementation: Immediate | Case #: LIT-2024-045</span></p>",
+    "to": ["ediscovery-team@synergyos.com", "it-legal@synergyos.com"],
+    "cc": ["litigation-counsel@synergyos.com", "records-management@synergyos.com"],
+    "attachments": ["Legal_Hold_Notice.docx", "Custodian_List.xlsx", "Preservation_Protocol.pdf"]
+} 

@@ -1,0 +1,20 @@
+{
+    "id": "Message-8u90v346-w789-9x01-u234-567890123rst",
+    "itemId": "Task-9v01w457-x890-0y12-v345-678901234stu",
+    "createdBy": {
+        "id": "User-0w12x568-y901-1z23-w456-789012345tuv",
+        "email": "sarah.thompson@synergyos.com",
+        "name": "Sarah Thompson"
+    },
+    "modifiedBy": {
+        "id": "User-0w12x568-y901-1z23-w456-789012345tuv",
+        "email": "sarah.thompson@synergyos.com",
+        "name": "Sarah Thompson"
+    },
+    "createdDateTime": 1730975315455,
+    "modifiedDateTime": 1730975315455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Privacy Policy Update - GDPR and CCPA Compliance:</span></p><ul><li>Review current privacy policies</li><li>Analyze new regulatory requirements</li><li>Update data processing procedures</li><li>Draft revised privacy notice</li><li>Review third-party data sharing agreements</li><li>Prepare implementation timeline</li><li>Create staff training materials</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: June 15, 2024 | Policy Ref: PP-2024-002</span></p>",
+    "to": ["privacy-team@synergyos.com", "compliance-legal@synergyos.com"],
+    "cc": ["dpo@synergyos.com", "marketing-legal@synergyos.com"],
+    "attachments": ["Current_Privacy_Policy.pdf", "Regulatory_Requirements.docx", "Implementation_Plan.xlsx"]
+} 

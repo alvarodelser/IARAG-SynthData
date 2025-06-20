@@ -1,0 +1,20 @@
+{
+    "id": "Message-5v67w013-x456-6y78-v901-234567890stu",
+    "itemId": "Task-6w78x124-y567-7z89-w012-345678901tuv",
+    "createdBy": {
+        "id": "User-7x89y235-z678-8a90-x123-456789012uvw",
+        "email": "ryan.thompson@synergyos.com",
+        "name": "Ryan Thompson"
+    },
+    "modifiedBy": {
+        "id": "User-7x89y235-z678-8a90-x123-456789012uvw",
+        "email": "ryan.thompson@synergyos.com",
+        "name": "Ryan Thompson"
+    },
+    "createdDateTime": 1730976215455,
+    "modifiedDateTime": 1730976215455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Q1 2024 Legal Department KPI Analysis:</span></p><ul><li>Compile matter resolution metrics</li><li>Analyze outside counsel spending</li><li>Review response time statistics</li><li>Calculate cost per matter metrics</li><li>Assess workload distribution</li><li>Review client satisfaction scores</li><li>Prepare performance dashboard</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Medium | Due: April 20, 2024 | Report: KPI-2024-Q1</span></p>",
+    "to": ["legal-operations@synergyos.com", "department-heads@synergyos.com"],
+    "cc": ["general-counsel@synergyos.com", "finance-team@synergyos.com"],
+    "attachments": ["KPI_Dashboard.xlsx", "Cost_Analysis.pdf", "Satisfaction_Survey.pptx"]
+} 

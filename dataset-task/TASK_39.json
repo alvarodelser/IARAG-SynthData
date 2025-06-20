@@ -1,0 +1,20 @@
+{
+    "id": "Message-4i56j902-k345-5l67-i890-123456789fgh",
+    "itemId": "Task-5j67k013-l456-6m78-j901-234567890ghi",
+    "createdBy": {
+        "id": "User-6k78l124-m567-7n89-k012-345678901hij",
+        "email": "linda.brown@synergyos.com",
+        "name": "Linda Brown"
+    },
+    "modifiedBy": {
+        "id": "User-6k78l124-m567-7n89-k012-345678901hij",
+        "email": "linda.brown@synergyos.com",
+        "name": "Linda Brown"
+    },
+    "createdDateTime": 1730977515455,
+    "modifiedDateTime": 1730977515455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">🔐 Internal Compliance Audit - Contract Management:</span></p><ul><li>Review signature authorities</li><li>Audit contract approval workflows</li><li>Check retention compliance</li><li>Verify security protocols</li><li>Review access permissions</li><li>Document policy violations</li><li>Prepare audit report</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: May 20, 2024 | Category: Compliance</span></p>",
+    "to": ["internal-audit@synergyos.com", "compliance-team@synergyos.com"],
+    "cc": ["legal-operations@synergyos.com", "risk-management@synergyos.com"],
+    "attachments": ["Audit_Checklist.xlsx", "Findings_Report.pdf", "Recommendations.docx"]
+} 

@@ -1,0 +1,20 @@
+{
+    "id": "Message-6d78e124-f567-7g89-e012-345678901def",
+    "itemId": "Task-7e89f235-g678-8h90-f123-456789012efg",
+    "createdBy": {
+        "id": "User-8f90g346-h789-9i01-g234-567890123fgh",
+        "email": "emma.taylor@synergyos.com",
+        "name": "Emma Taylor"
+    },
+    "modifiedBy": {
+        "id": "User-8f90g346-h789-9i01-g234-567890123fgh",
+        "email": "emma.taylor@synergyos.com",
+        "name": "Emma Taylor"
+    },
+    "createdDateTime": 1730973915455,
+    "modifiedDateTime": 1730973915455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Onboarding Process for New Developer - David Kim:</span></p><ul><li>Set up workstation and development environment</li><li>Grant system access and permissions</li><li>Schedule welcome meeting with team</li><li>Assign onboarding buddy</li><li>Review 30-60-90 day plan</li><li>Schedule required training sessions</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Start Date: May 1, 2024</span></p>",
+    "to": ["it-support@synergyos.com", "hr-team@synergyos.com"],
+    "cc": ["engineering-lead@synergyos.com"],
+    "attachments": ["Onboarding_Checklist.pdf", "Employee_Handbook.pdf"]
+} 

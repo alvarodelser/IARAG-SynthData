@@ -1,0 +1,20 @@
+{
+    "id": "Message-3a45b891-c234-4d56-b789-0123456789ab",
+    "itemId": "Task-4b56c902-d345-5e67-c890-123456789abc",
+    "createdBy": {
+        "id": "User-5c67d013-e456-6f78-d901-234567890bcd",
+        "email": "michael.rodriguez@synergyos.com",
+        "name": "Michael Rodriguez"
+    },
+    "modifiedBy": {
+        "id": "User-5c67d013-e456-6f78-d901-234567890bcd",
+        "email": "michael.rodriguez@synergyos.com",
+        "name": "Michael Rodriguez"
+    },
+    "createdDateTime": 1730973815455,
+    "modifiedDateTime": 1730973815455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Prepare Q1 2024 Sales Report:</span></p><ul><li>Compile regional sales data</li><li>Analyze key performance metrics</li><li>Compare with previous quarter</li><li>Generate executive summary</li><li>Create presentation slides</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Medium | Due: April 15, 2024</span></p>",
+    "to": ["sales-team@synergyos.com"],
+    "cc": ["executive-team@synergyos.com"],
+    "attachments": ["Q1_2024_Sales_Template.xlsx"]
+} 

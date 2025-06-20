@@ -1,0 +1,20 @@
+{
+    "id": "Message-6q78r124-s567-7t89-q012-345678901nop",
+    "itemId": "Task-7r89s235-t678-8u90-r123-456789012opq",
+    "createdBy": {
+        "id": "User-8s90t346-u789-9v01-s234-567890123pqr",
+        "email": "sarah.johnson@synergyos.com",
+        "name": "Sarah Johnson"
+    },
+    "modifiedBy": {
+        "id": "User-8s90t346-u789-9v01-s234-567890123pqr",
+        "email": "sarah.johnson@synergyos.com",
+        "name": "Sarah Johnson"
+    },
+    "createdDateTime": 1730976915455,
+    "modifiedDateTime": 1730976915455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">💬 Merger Communication Plan Implementation:</span></p><ul><li>Draft employee announcement</li><li>Prepare investor relations FAQ</li><li>Schedule town hall meetings</li><li>Create media response strategy</li><li>Update customer communication plan</li><li>Coordinate with PR agency</li><li>Monitor social media response</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Critical | Timeline: April 20-30, 2024 | Category: Communication</span></p>",
+    "to": ["communications@synergyos.com", "hr-communications@synergyos.com"],
+    "cc": ["executive-team@synergyos.com", "pr-agency@external.com"],
+    "attachments": ["Communication_Plan.pdf", "FAQ_Document.docx", "Media_Brief.pdf"]
+} 

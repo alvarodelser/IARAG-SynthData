@@ -1,0 +1,20 @@
+{
+    "id": "Message-4m56n902-o345-5p67-m890-123456789jkl",
+    "itemId": "Task-5n67o013-p456-6q78-n901-234567890klm",
+    "createdBy": {
+        "id": "User-6o78p124-q567-7r89-o012-345678901lmn",
+        "email": "lisa.garcia@synergyos.com",
+        "name": "Lisa Garcia"
+    },
+    "modifiedBy": {
+        "id": "User-6o78p124-q567-7r89-o012-345678901lmn",
+        "email": "lisa.garcia@synergyos.com",
+        "name": "Lisa Garcia"
+    },
+    "createdDateTime": 1730978515455,
+    "modifiedDateTime": 1730978515455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Lunch order for mediation next Tuesday. 8 people, mix of dietary requirements in attachment. Usual vendor is fine.</span></p><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Low | By Friday</span></p>",
+    "to": ["catering@synergyos.com"],
+    "cc": [],
+    "attachments": ["dietary_requirements.txt"]
+} 

@@ -1,0 +1,20 @@
+{
+    "id": "Message-9t01u457-v890-0w12-t345-678901234qrs",
+    "itemId": "Task-0u12v568-w901-1x23-u456-789012345rst",
+    "createdBy": {
+        "id": "User-1v23w679-x012-2y34-v567-890123456stu",
+        "email": "james.taylor@synergyos.com",
+        "name": "James Taylor"
+    },
+    "modifiedBy": {
+        "id": "User-1v23w679-x012-2y34-v567-890123456stu",
+        "email": "james.taylor@synergyos.com",
+        "name": "James Taylor"
+    },
+    "createdDateTime": 1730977015455,
+    "modifiedDateTime": 1730977015455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">📌 Follow-up on Pending Contract Approvals:</span></p><ul><li>Review approval queue status</li><li>Send reminder to pending approvers</li><li>Escalate overdue approvals</li><li>Update tracking spreadsheet</li><li>Generate status report</li><li>Schedule follow-up calls</li><li>Document approval bottlenecks</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: April 25, 2024 | Category: Follow-Up</span></p>",
+    "to": ["approvals-team@synergyos.com", "contract-admin@synergyos.com"],
+    "cc": ["legal-operations@synergyos.com"],
+    "attachments": ["Pending_Approvals.xlsx", "Escalation_Log.pdf", "Status_Report.docx"]
+} 

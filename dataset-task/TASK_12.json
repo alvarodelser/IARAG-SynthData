@@ -1,0 +1,20 @@
+{
+    "id": "Message-3f45g891-h234-4i56-f789-012345678def",
+    "itemId": "Task-4g56h902-i345-5j67-g890-123456789efg",
+    "createdBy": {
+        "id": "User-5h67i013-j456-6k78-h901-234567890fgh",
+        "email": "robert.kim@synergyos.com",
+        "name": "Robert Kim"
+    },
+    "modifiedBy": {
+        "id": "User-5h67i013-j456-6k78-h901-234567890fgh",
+        "email": "robert.kim@synergyos.com",
+        "name": "Robert Kim"
+    },
+    "createdDateTime": 1730974815455,
+    "modifiedDateTime": 1730974815455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Financial Services Regulatory Compliance Audit:</span></p><ul><li>Review SEC filing requirements</li><li>Audit internal compliance procedures</li><li>Check broker-dealer registrations</li><li>Verify investment advisor certifications</li><li>Review client documentation practices</li><li>Update compliance manual</li><li>Schedule staff training sessions</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Critical | Due: May 15, 2024 | Ref: COMP-2024-089</span></p>",
+    "to": ["compliance-team@synergyos.com", "legal-department@synergyos.com"],
+    "cc": ["chief-compliance-officer@synergyos.com"],
+    "attachments": ["Compliance_Checklist.pdf", "SEC_Requirements_2024.pdf", "Training_Schedule.xlsx"]
+} 

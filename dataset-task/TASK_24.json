@@ -1,0 +1,20 @@
+{
+    "id": "Message-9p01q457-r890-0s12-p345-678901234mno",
+    "itemId": "Task-0q12r568-s901-1t23-q456-789012345nop",
+    "createdBy": {
+        "id": "User-1r23s679-t012-2u34-r567-890123456opq",
+        "email": "jason.wright@synergyos.com",
+        "name": "Jason Wright"
+    },
+    "modifiedBy": {
+        "id": "User-1r23s679-t012-2u34-r567-890123456opq",
+        "email": "jason.wright@synergyos.com",
+        "name": "Jason Wright"
+    },
+    "createdDateTime": 1730976015455,
+    "modifiedDateTime": 1730976015455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">E-Discovery Platform Vendor Evaluation:</span></p><ul><li>Review vendor proposals</li><li>Schedule product demonstrations</li><li>Evaluate security requirements</li><li>Assess integration capabilities</li><li>Compare pricing models</li><li>Check client references</li><li>Prepare recommendation report</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: June 15, 2024 | Project: TECH-2024-005</span></p>",
+    "to": ["legal-operations@synergyos.com", "it-procurement@synergyos.com"],
+    "cc": ["cio@synergyos.com", "ediscovery-team@synergyos.com"],
+    "attachments": ["Vendor_Comparison.xlsx", "Security_Requirements.pdf", "Integration_Specs.docx"]
+} 

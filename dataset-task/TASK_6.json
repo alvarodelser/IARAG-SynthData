@@ -1,0 +1,20 @@
+{
+    "id": "Message-5n67o013-p456-6q78-n901-234567890mno",
+    "itemId": "Task-6o78p124-q567-7r89-o012-345678901nop",
+    "createdBy": {
+        "id": "User-7p89q235-r678-8s90-p123-456789012opq",
+        "email": "david.miller@synergyos.com",
+        "name": "David Miller"
+    },
+    "modifiedBy": {
+        "id": "User-7p89q235-r678-8s90-p123-456789012opq",
+        "email": "david.miller@synergyos.com",
+        "name": "David Miller"
+    },
+    "createdDateTime": 1730974215455,
+    "modifiedDateTime": 1730974215455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">2025 Budget Planning:</span></p><ul><li>Review current year expenses</li><li>Gather department budget requests</li><li>Analyze growth projections</li><li>Create preliminary budget draft</li><li>Schedule budget review meetings</li><li>Prepare presentation for board</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: September 30, 2024</span></p>",
+    "to": ["finance-team@synergyos.com", "department-heads@synergyos.com"],
+    "cc": ["cfo@synergyos.com"],
+    "attachments": ["Budget_Template_2025.xlsx", "Department_Guidelines.pdf"]
+} 

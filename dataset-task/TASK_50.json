@@ -1,0 +1,20 @@
+{
+    "id": "Message-7p89q235-r678-8s90-p123-456789012mno",
+    "itemId": "Task-8q90r346-s789-9t01-q234-567890123nop",
+    "createdBy": {
+        "id": "User-9r01s457-t890-0u12-r345-678901234opq",
+        "email": "chris.baker@synergyos.com",
+        "name": "Chris Baker"
+    },
+    "modifiedBy": {
+        "id": "User-9r01s457-t890-0u12-r345-678901234opq",
+        "email": "chris.baker@synergyos.com",
+        "name": "Chris Baker"
+    },
+    "createdDateTime": 1730978615455,
+    "modifiedDateTime": 1730978615455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">AC not working in office 512. Getting really warm up here.</span></p><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | ASAP please</span></p>",
+    "to": ["building-maintenance@synergyos.com"],
+    "cc": [],
+    "attachments": []
+} 

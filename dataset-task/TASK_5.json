@@ -1,0 +1,20 @@
+{
+    "id": "Message-2k34l780-m123-3n45-k678-901234567jkl",
+    "itemId": "Task-3l45m891-n234-4o56-l789-012345678klm",
+    "createdBy": {
+        "id": "User-4m56n902-o345-5p67-m890-123456789lmn",
+        "email": "rachel.patel@synergyos.com",
+        "name": "Rachel Patel"
+    },
+    "modifiedBy": {
+        "id": "User-4m56n902-o345-5p67-m890-123456789lmn",
+        "email": "rachel.patel@synergyos.com",
+        "name": "Rachel Patel"
+    },
+    "createdDateTime": 1730974115455,
+    "modifiedDateTime": 1730974115455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Mobile App Launch Planning:</span></p><ul><li>Finalize feature set for MVP</li><li>Create marketing materials</li><li>Plan social media campaign</li><li>Coordinate with PR team</li><li>Set up app store listings</li><li>Organize launch event</li><li>Prepare customer support team</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Launch Date: July 15, 2024</span></p>",
+    "to": ["product-team@synergyos.com", "marketing@synergyos.com"],
+    "cc": ["executive-team@synergyos.com"],
+    "attachments": ["Launch_Timeline.pdf", "Marketing_Assets.zip"]
+} 

@@ -1,0 +1,20 @@
+{
+    "id": "Message-0g12h568-i901-1j23-g456-789012345def",
+    "itemId": "Task-1h23i679-j012-2k34-h567-890123456efg",
+    "createdBy": {
+        "id": "User-2i34j780-k123-3l45-i678-901234567fgh",
+        "email": "nina.patel@synergyos.com",
+        "name": "Nina Patel"
+    },
+    "modifiedBy": {
+        "id": "User-2i34j780-k123-3l45-i678-901234567fgh",
+        "email": "nina.patel@synergyos.com",
+        "name": "Nina Patel"
+    },
+    "createdDateTime": 1730975715455,
+    "modifiedDateTime": 1730975715455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">International Trademark Registration - APAC Region:</span></p><ul><li>Review trademark search results</li><li>Prepare Madrid Protocol application</li><li>Coordinate with local counsel in target countries</li><li>Draft goods and services descriptions</li><li>Review translation requirements</li><li>Calculate filing fees</li><li>Prepare client authorization documents</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: June 30, 2024 | Ref: TM-2024-APAC-012</span></p>",
+    "to": ["ip-team@synergyos.com", "international-counsel@synergyos.com"],
+    "cc": ["brand-protection@synergyos.com", "marketing-legal@synergyos.com"],
+    "attachments": ["Trademark_Search_Report.pdf", "Filing_Strategy.docx", "Cost_Estimates.xlsx"]
+} 

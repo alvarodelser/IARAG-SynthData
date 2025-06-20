@@ -1,0 +1,20 @@
+{
+    "id": "Message-1j23k679-l012-2m34-j567-890123456ghi",
+    "itemId": "Task-2k34l780-m123-3n45-k678-901234567hij",
+    "createdBy": {
+        "id": "User-3l45m891-n234-4o56-l789-012345678ijk",
+        "email": "david.thompson@synergyos.com",
+        "name": "David Thompson"
+    },
+    "modifiedBy": {
+        "id": "User-3l45m891-n234-4o56-l789-012345678ijk",
+        "email": "david.thompson@synergyos.com",
+        "name": "David Thompson"
+    },
+    "createdDateTime": 1730978415455,
+    "modifiedDateTime": 1730978415455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Need recent cases (last 2 years) on remote work accommodation under ADA. Just headlines and citations.</span></p><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Medium | By end of week</span></p>",
+    "to": ["research-team@synergyos.com"],
+    "cc": [],
+    "attachments": []
+} 

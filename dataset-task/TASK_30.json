@@ -1,0 +1,20 @@
+{
+    "id": "Message-7h89i235-j678-8k90-h123-456789012efg",
+    "itemId": "Task-8i90j346-k789-9l01-i234-567890123fgh",
+    "createdBy": {
+        "id": "User-9j01k457-l890-0m12-j345-678901234ghi",
+        "email": "amanda.foster@synergyos.com",
+        "name": "Amanda Foster"
+    },
+    "modifiedBy": {
+        "id": "User-9j01k457-l890-0m12-j345-678901234ghi",
+        "email": "amanda.foster@synergyos.com",
+        "name": "Amanda Foster"
+    },
+    "createdDateTime": 1730976615455,
+    "modifiedDateTime": 1730976615455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Legal Department Succession Planning:</span></p><ul><li>Review current organizational structure</li><li>Identify key positions and roles</li><li>Assess talent pipeline</li><li>Create development plans</li><li>Update job descriptions</li><li>Plan knowledge transfer activities</li><li>Schedule leadership training</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: June 30, 2024 | Plan: SUCC-2024-001</span></p>",
+    "to": ["hr-planning@synergyos.com", "legal-management@synergyos.com"],
+    "cc": ["general-counsel@synergyos.com", "talent-development@synergyos.com"],
+    "attachments": ["Org_Chart.pdf", "Development_Plans.xlsx", "Succession_Matrix.docx"]
+} 

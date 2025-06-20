@@ -1,0 +1,20 @@
+{
+    "id": "Message-8q90r346-s789-9t01-q234-567890123pqr",
+    "itemId": "Task-9r01s457-t890-0u12-r345-678901234qrs",
+    "createdBy": {
+        "id": "User-0s12t568-u901-1v23-s456-789012345rst",
+        "email": "lisa.zhang@synergyos.com",
+        "name": "Lisa Zhang"
+    },
+    "modifiedBy": {
+        "id": "User-0s12t568-u901-1v23-s456-789012345rst",
+        "email": "lisa.zhang@synergyos.com",
+        "name": "Lisa Zhang"
+    },
+    "createdDateTime": 1730974315455,
+    "modifiedDateTime": 1730974315455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Q1 2024 Customer Feedback Analysis:</span></p><ul><li>Compile survey responses</li><li>Analyze NPS scores</li><li>Review customer support tickets</li><li>Identify common pain points</li><li>Create action items for improvement</li><li>Present findings to product team</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Medium | Due: April 20, 2024</span></p>",
+    "to": ["customer-success@synergyos.com", "product-team@synergyos.com"],
+    "cc": ["product-manager@synergyos.com"],
+    "attachments": ["Customer_Survey_Data.xlsx", "Support_Tickets_Q1.csv"]
+} 

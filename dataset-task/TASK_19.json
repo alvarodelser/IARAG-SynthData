@@ -1,0 +1,20 @@
+{
+    "id": "Message-4a56b902-c345-5d67-a890-123456789xyz",
+    "itemId": "Task-5b67c013-d456-6e78-b901-234567890yza",
+    "createdBy": {
+        "id": "User-6c78d124-e567-7f89-c012-345678901zab",
+        "email": "laura.white@synergyos.com",
+        "name": "Laura White"
+    },
+    "modifiedBy": {
+        "id": "User-6c78d124-e567-7f89-c012-345678901zab",
+        "email": "laura.white@synergyos.com",
+        "name": "Laura White"
+    },
+    "createdDateTime": 1730975515455,
+    "modifiedDateTime": 1730975515455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Legal Knowledge Management System Update:</span></p><ul><li>Audit current document templates</li><li>Update precedent database</li><li>Revise document naming conventions</li><li>Implement new taxonomy structure</li><li>Migrate legacy documents</li><li>Update user access permissions</li><li>Schedule staff training sessions</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Medium | Due: July 1, 2024 | Project: KM-2024-003</span></p>",
+    "to": ["knowledge-management@synergyos.com", "legal-tech@synergyos.com"],
+    "cc": ["practice-heads@synergyos.com"],
+    "attachments": ["Template_Inventory.xlsx", "Taxonomy_Guide.pdf", "Training_Schedule.docx"]
+} 

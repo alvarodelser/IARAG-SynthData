@@ -1,0 +1,20 @@
+{
+    "id": "Message-2a34b780-c123-3d45-a678-901234567xyz",
+    "itemId": "Task-3b45c891-d234-4e56-b789-012345678yza",
+    "createdBy": {
+        "id": "User-4c56d902-e345-5f67-c890-123456789zab",
+        "email": "thomas.mueller@synergyos.com",
+        "name": "Thomas Mueller"
+    },
+    "modifiedBy": {
+        "id": "User-4c56d902-e345-5f67-c890-123456789zab",
+        "email": "thomas.mueller@synergyos.com",
+        "name": "Thomas Mueller"
+    },
+    "createdDateTime": 1730978115455,
+    "modifiedDateTime": 1730978115455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Need quick translation of attached NDA to German. Standard template, ~5 pages.</span></p><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Medium | Need by Friday</span></p>",
+    "to": ["translation-services@synergyos.com"],
+    "cc": [],
+    "attachments": ["Standard_NDA_v2.docx"]
+} 

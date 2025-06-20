@@ -1,0 +1,20 @@
+{
+    "id": "Message-5z67a013-b456-6c78-z901-234567890wxy",
+    "itemId": "Task-6a78b124-c567-7d89-a012-345678901xyz",
+    "createdBy": {
+        "id": "User-7b89c235-d678-8e90-b123-456789012yza",
+        "email": "alex.martinez@synergyos.com",
+        "name": "Alex Martinez"
+    },
+    "modifiedBy": {
+        "id": "User-7b89c235-d678-8e90-b123-456789012yza",
+        "email": "alex.martinez@synergyos.com",
+        "name": "Alex Martinez"
+    },
+    "createdDateTime": 1730977215455,
+    "modifiedDateTime": 1730977215455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">👥 Cross-Department Policy Review Initiative:</span></p><ul><li>Coordinate review teams</li><li>Set up collaboration workspace</li><li>Assign section owners</li><li>Schedule working sessions</li><li>Collect departmental feedback</li><li>Resolve conflicting inputs</li><li>Prepare consolidated draft</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: June 15, 2024 | Category: Collaboration</span></p>",
+    "to": ["policy-team@synergyos.com", "department-heads@synergyos.com"],
+    "cc": ["compliance-office@synergyos.com"],
+    "attachments": ["Review_Schedule.xlsx", "Feedback_Template.docx", "Working_Draft.pdf"]
+} 

@@ -1,0 +1,20 @@
+{
+    "id": "Message-7z89a235-b678-8c90-z123-456789012xyz",
+    "itemId": "Task-8a90b346-c789-9d01-a234-567890123yza",
+    "createdBy": {
+        "id": "User-9b01c457-d890-0e12-b345-678901234zab",
+        "email": "thomas.garcia@synergyos.com",
+        "name": "Thomas Garcia"
+    },
+    "modifiedBy": {
+        "id": "User-9b01c457-d890-0e12-b345-678901234zab",
+        "email": "thomas.garcia@synergyos.com",
+        "name": "Thomas Garcia"
+    },
+    "createdDateTime": 1730974615455,
+    "modifiedDateTime": 1730974615455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Cloud Services Vendor Contract Review:</span></p><ul><li>Review current service agreements</li><li>Compare vendor pricing</li><li>Analyze service performance metrics</li><li>Evaluate compliance requirements</li><li>Negotiate renewal terms</li><li>Prepare recommendation report</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Medium | Due: May 31, 2024</span></p>",
+    "to": ["legal@synergyos.com", "procurement@synergyos.com"],
+    "cc": ["cto@synergyos.com", "cfo@synergyos.com"],
+    "attachments": ["Vendor_Comparison.xlsx", "Service_Metrics.pdf", "Legal_Requirements.docx"]
+} 

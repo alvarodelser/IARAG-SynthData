@@ -1,0 +1,20 @@
+{
+    "id": "Message-3n45o891-p234-4q56-n789-012345678klm",
+    "itemId": "Task-4o56p902-q345-5r67-o890-123456789lmn",
+    "createdBy": {
+        "id": "User-5p67q013-r456-6s78-p901-234567890mno",
+        "email": "michael.wong@synergyos.com",
+        "name": "Michael Wong"
+    },
+    "modifiedBy": {
+        "id": "User-5p67q013-r456-6s78-p901-234567890mno",
+        "email": "michael.wong@synergyos.com",
+        "name": "Michael Wong"
+    },
+    "createdDateTime": 1730976815455,
+    "modifiedDateTime": 1730976815455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">📅 Q2 2024 Board Meeting Coordination:</span></p><ul><li>Schedule board member availability</li><li>Book conference facilities</li><li>Arrange catering services</li><li>Prepare meeting materials</li><li>Coordinate international dial-ins</li><li>Send calendar invitations</li><li>Arrange pre-meeting briefings</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Meeting Date: May 15, 2024 | Category: Scheduling</span></p>",
+    "to": ["board-secretary@synergyos.com", "executive-admin@synergyos.com"],
+    "cc": ["board-members@synergyos.com"],
+    "attachments": ["Meeting_Agenda.pdf", "Board_Calendar.xlsx", "Logistics_Plan.docx"]
+} 

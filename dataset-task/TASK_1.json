@@ -1,0 +1,20 @@
+{
+    "id": "Message-92cc6817-41fd-4f09-922d-ebd350f8fa1d",
+    "itemId": "Task-ce988990-eb8e-468b-8ad9-fec97beeaf23",
+    "createdBy": {
+        "id": "User-d6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "sarah.chen@synergyos.com",
+        "name": "Sarah Chen"
+    },
+    "modifiedBy": {
+        "id": "User-d6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "sarah.chen@synergyos.com",
+        "name": "Sarah Chen"
+    },
+    "createdDateTime": 1730973715455,
+    "modifiedDateTime": 1730973715455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Plan and coordinate website redesign project:</span></p><ul><li>Create project timeline and milestones</li><li>Identify key stakeholders</li><li>Schedule initial design workshop</li><li>Review current website analytics</li><li>Prepare budget proposal</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: Q2 2024</span></p>",
+    "to": ["team-design@synergyos.com", "team-dev@synergyos.com"],
+    "cc": ["product@synergyos.com"],
+    "attachments": []
+} 

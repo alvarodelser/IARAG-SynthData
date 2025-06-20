@@ -1,0 +1,20 @@
+{
+    "id": "Message-5r67s013-t456-6u78-r901-234567890pqr",
+    "itemId": "Task-6s78t124-u567-7v89-s012-345678901qrs",
+    "createdBy": {
+        "id": "User-7t89u235-v678-8w90-t123-456789012rst",
+        "email": "andrew.foster@synergyos.com",
+        "name": "Andrew Foster"
+    },
+    "modifiedBy": {
+        "id": "User-7t89u235-v678-8w90-t123-456789012rst",
+        "email": "andrew.foster@synergyos.com",
+        "name": "Andrew Foster"
+    },
+    "createdDateTime": 1730975215455,
+    "modifiedDateTime": 1730975215455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">M&A Due Diligence - Tech Startup Acquisition:</span></p><ul><li>Review intellectual property portfolio</li><li>Analyze existing contracts and licenses</li><li>Evaluate pending litigation risks</li><li>Review employment agreements</li><li>Assess regulatory compliance</li><li>Prepare due diligence report</li><li>Draft preliminary findings memo</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Critical | Due: May 31, 2024 | Project Code: M&A-2024-007</span></p>",
+    "to": ["m&a-team@synergyos.com", "due-diligence@synergyos.com"],
+    "cc": ["managing-partner@synergyos.com", "corporate-team@synergyos.com"],
+    "attachments": ["IP_Portfolio.pdf", "Contract_Review.xlsx", "Risk_Assessment.docx"]
+} 

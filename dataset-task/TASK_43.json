@@ -1,0 +1,20 @@
+{
+    "id": "Message-6u78v124-w567-7x89-u012-345678901rst",
+    "itemId": "Task-7v89w235-x678-8y90-v123-456789012stu",
+    "createdBy": {
+        "id": "User-8w90x346-y789-9z01-w234-567890123tuv",
+        "email": "mark.anderson@synergyos.com",
+        "name": "Mark Anderson"
+    },
+    "modifiedBy": {
+        "id": "User-8w90x346-y789-9z01-w234-567890123tuv",
+        "email": "mark.anderson@synergyos.com",
+        "name": "Mark Anderson"
+    },
+    "createdDateTime": 1730977915455,
+    "modifiedDateTime": 1730977915455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Can't access the litigation database since this morning. Getting error 403.</span></p><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Medium | ASAP</span></p>",
+    "to": ["it-helpdesk@synergyos.com"],
+    "cc": [],
+    "attachments": ["error_screenshot.png"]
+} 

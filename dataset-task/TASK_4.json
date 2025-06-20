@@ -1,0 +1,20 @@
+{
+    "id": "Message-9h01i457-j890-0k12-h345-678901234ghi",
+    "itemId": "Task-0i12j568-k901-1l23-i456-789012345hij",
+    "createdBy": {
+        "id": "User-1j23k679-l012-2m34-j567-890123456ijk",
+        "email": "alex.wong@synergyos.com",
+        "name": "Alex Wong"
+    },
+    "modifiedBy": {
+        "id": "User-1j23k679-l012-2m34-j567-890123456ijk",
+        "email": "alex.wong@synergyos.com",
+        "name": "Alex Wong"
+    },
+    "createdDateTime": 1730974015455,
+    "modifiedDateTime": 1730974015455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Prepare for Annual Security Audit:</span></p><ul><li>Review security policies and procedures</li><li>Update incident response documentation</li><li>Conduct internal vulnerability assessment</li><li>Prepare access control documentation</li><li>Review third-party vendor security</li><li>Schedule penetration testing</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Critical | Due: June 30, 2024</span></p>",
+    "to": ["security-team@synergyos.com", "compliance@synergyos.com"],
+    "cc": ["cto@synergyos.com"],
+    "attachments": ["Security_Policies_2024.pdf", "Audit_Checklist.xlsx"]
+} 

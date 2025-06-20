@@ -1,0 +1,20 @@
+{
+    "id": "Message-2w34x780-y123-3z45-w678-901234567tuv",
+    "itemId": "Task-3x45y891-z234-4a56-x789-012345678uvw",
+    "createdBy": {
+        "id": "User-4y56z902-a345-5b67-y890-123456789vwx",
+        "email": "emily.chen@synergyos.com",
+        "name": "Emily Chen"
+    },
+    "modifiedBy": {
+        "id": "User-4y56z902-a345-5b67-y890-123456789vwx",
+        "email": "emily.chen@synergyos.com",
+        "name": "Emily Chen"
+    },
+    "createdDateTime": 1730977115455,
+    "modifiedDateTime": 1730977115455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">🔍 Legal Tech Market Research Analysis:</span></p><ul><li>Research competitor solutions</li><li>Gather vendor pricing data</li><li>Review industry analyst reports</li><li>Collect user feedback surveys</li><li>Analyze market trends</li><li>Document feature comparisons</li><li>Prepare findings summary</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Medium | Due: May 31, 2024 | Category: Research</span></p>",
+    "to": ["market-research@synergyos.com", "legal-tech@synergyos.com"],
+    "cc": ["strategy-team@synergyos.com"],
+    "attachments": ["Market_Analysis.xlsx", "Vendor_Comparison.pdf", "Survey_Results.pptx"]
+} 

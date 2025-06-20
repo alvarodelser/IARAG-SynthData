@@ -1,0 +1,20 @@
+{
+    "id": "Message-9l01m457-n890-0o12-l345-678901234jkl",
+    "itemId": "Task-0m12n568-o901-1p23-m456-789012345klm",
+    "createdBy": {
+        "id": "User-1n23o679-p012-2q34-n567-890123456lmn",
+        "email": "daniel.cohen@synergyos.com",
+        "name": "Daniel Cohen"
+    },
+    "modifiedBy": {
+        "id": "User-1n23o679-p012-2q34-n567-890123456lmn",
+        "email": "daniel.cohen@synergyos.com",
+        "name": "Daniel Cohen"
+    },
+    "createdDateTime": 1730975015455,
+    "modifiedDateTime": 1730975015455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Enterprise Software License Agreement Negotiation:</span></p><ul><li>Review vendor's proposed terms</li><li>Draft counter-proposal</li><li>Negotiate liability provisions</li><li>Review data protection clauses</li><li>Consult with IT on technical requirements</li><li>Prepare cost analysis</li><li>Schedule negotiation meeting</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: May 20, 2024 | Contract #: CNT-2024-156</span></p>",
+    "to": ["contracts-team@synergyos.com", "it-legal@synergyos.com"],
+    "cc": ["procurement@synergyos.com", "cto@synergyos.com"],
+    "attachments": ["Vendor_Proposal.pdf", "Counter_Proposal_Draft.docx", "Cost_Analysis.xlsx"]
+} 

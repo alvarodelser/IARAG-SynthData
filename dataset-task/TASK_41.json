@@ -1,0 +1,20 @@
+{
+    "id": "Message-0o12p568-q901-1r23-o456-789012345lmn",
+    "itemId": "Task-1p23q679-r012-2s34-p567-890123456mno",
+    "createdBy": {
+        "id": "User-2q34r780-s123-3t45-q678-901234567nop",
+        "email": "sophia.lee@synergyos.com",
+        "name": "Sophia Lee"
+    },
+    "modifiedBy": {
+        "id": "User-2q34r780-s123-3t45-q678-901234567nop",
+        "email": "sophia.lee@synergyos.com",
+        "name": "Sophia Lee"
+    },
+    "createdDateTime": 1730977715455,
+    "modifiedDateTime": 1730977715455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">🧠 Legal Technology Training Program Development:</span></p><ul><li>Design curriculum outline</li><li>Create training materials</li><li>Set up learning modules</li><li>Record tutorial videos</li><li>Develop assessment criteria</li><li>Schedule training sessions</li><li>Create feedback surveys</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Medium | Due: June 30, 2024 | Category: Learning</span></p>",
+    "to": ["training-team@synergyos.com", "legal-tech@synergyos.com"],
+    "cc": ["hr-development@synergyos.com"],
+    "attachments": ["Training_Plan.pdf", "Course_Materials.pptx", "Assessment_Guide.docx"]
+} 

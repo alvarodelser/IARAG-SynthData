@@ -1,0 +1,20 @@
+{
+    "id": "Message-6m78n124-o567-7p89-m012-345678901jkl",
+    "itemId": "Task-7n89o235-p678-8q90-n123-456789012klm",
+    "createdBy": {
+        "id": "User-8o90p346-q789-9r01-o234-567890123lmn",
+        "email": "victoria.chang@synergyos.com",
+        "name": "Victoria Chang"
+    },
+    "modifiedBy": {
+        "id": "User-8o90p346-q789-9r01-o234-567890123lmn",
+        "email": "victoria.chang@synergyos.com",
+        "name": "Victoria Chang"
+    },
+    "createdDateTime": 1730975915455,
+    "modifiedDateTime": 1730975915455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Annual Corporate Governance Review:</span></p><ul><li>Review board committee charters</li><li>Update corporate bylaws</li><li>Review director independence criteria</li><li>Update governance guidelines</li><li>Review conflict of interest policies</li><li>Prepare board evaluation materials</li><li>Schedule governance committee meeting</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: May 31, 2024 | Ref: CORP-GOV-2024-001</span></p>",
+    "to": ["corporate-secretary@synergyos.com", "governance-committee@synergyos.com"],
+    "cc": ["board-members@synergyos.com", "external-counsel@lawfirm.com"],
+    "attachments": ["Current_Bylaws.pdf", "Committee_Charters.pdf", "Governance_Guidelines.docx"]
+} 

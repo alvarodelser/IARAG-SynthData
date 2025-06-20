@@ -1,0 +1,20 @@
+{
+    "id": "Message-5d67e013-f456-6g78-d901-234567890abc",
+    "itemId": "Task-6e78f124-g567-7h89-e012-345678901bcd",
+    "createdBy": {
+        "id": "User-7f89g235-h678-8i90-f123-456789012cde",
+        "email": "karen.white@synergyos.com",
+        "name": "Karen White"
+    },
+    "modifiedBy": {
+        "id": "User-7f89g235-h678-8i90-f123-456789012cde",
+        "email": "karen.white@synergyos.com",
+        "name": "Karen White"
+    },
+    "createdDateTime": 1730978215455,
+    "modifiedDateTime": 1730978215455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Double booking in Conference Room A for tomorrow at 10am. My client meeting was scheduled first but someone else booked over it. Help!</span></p><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Need resolution today</span></p>",
+    "to": ["office-admin@synergyos.com"],
+    "cc": [],
+    "attachments": ["calendar_screenshot.png"]
+} 

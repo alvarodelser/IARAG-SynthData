@@ -1,0 +1,20 @@
+{
+    "id": "Message-3r45s891-t234-4u56-r789-012345678opq",
+    "itemId": "Task-4s56t902-u345-5v67-s890-123456789pqr",
+    "createdBy": {
+        "id": "User-5t67u013-v456-6w78-t901-234567890qrs",
+        "email": "intern.legal@synergyos.com",
+        "name": "Summer Intern"
+    },
+    "modifiedBy": {
+        "id": "User-5t67u013-v456-6w78-t901-234567890qrs",
+        "email": "intern.legal@synergyos.com",
+        "name": "Summer Intern"
+    },
+    "createdDateTime": 1730977815455,
+    "modifiedDateTime": 1730977815455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Need more legal pads and sticky notes for the conference room</span></p><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Low | When possible</span></p>",
+    "to": ["office-supplies@synergyos.com"],
+    "cc": [],
+    "attachments": []
+} 

@@ -1,0 +1,20 @@
+{
+    "id": "Message-2o34p780-q123-3r45-o678-901234567mno",
+    "itemId": "Task-3p45q891-r234-4s56-p789-012345678nop",
+    "createdBy": {
+        "id": "User-4q56r902-s345-5t67-q890-123456789opq",
+        "email": "michelle.wong@synergyos.com",
+        "name": "Michelle Wong"
+    },
+    "modifiedBy": {
+        "id": "User-4q56r902-s345-5t67-q890-123456789opq",
+        "email": "michelle.wong@synergyos.com",
+        "name": "Michelle Wong"
+    },
+    "createdDateTime": 1730975115455,
+    "modifiedDateTime": 1730975115455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Employment Discrimination Case Preparation:</span></p><ul><li>Review employee personnel files</li><li>Interview key witnesses</li><li>Analyze performance reviews</li><li>Review company policies</li><li>Draft position statement</li><li>Prepare EEOC response</li><li>Develop litigation strategy</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: April 28, 2024 | Case #: EMP-2024-023</span></p>",
+    "to": ["employment-law@synergyos.com", "hr-legal@synergyos.com"],
+    "cc": ["outside-counsel@lawfirm.com", "hr-director@synergyos.com"],
+    "attachments": ["Personnel_Records.pdf", "Company_Policies.pdf", "Witness_Statements.docx"]
+} 

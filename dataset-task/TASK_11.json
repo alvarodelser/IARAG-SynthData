@@ -1,0 +1,20 @@
+{
+    "id": "Message-0c12d568-e901-1f23-c456-789012345abc",
+    "itemId": "Task-1d23e679-f012-2g34-d567-890123456bcd",
+    "createdBy": {
+        "id": "User-2e34f780-g123-3h45-e678-901234567cde",
+        "email": "jennifer.martinez@synergyos.com",
+        "name": "Jennifer Martinez"
+    },
+    "modifiedBy": {
+        "id": "User-2e34f780-g123-3h45-e678-901234567cde",
+        "email": "jennifer.martinez@synergyos.com",
+        "name": "Jennifer Martinez"
+    },
+    "createdDateTime": 1730974715455,
+    "modifiedDateTime": 1730974715455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Class Action Lawsuit - Document Review Phase:</span></p><ul><li>Review 10,000+ customer complaint documents</li><li>Tag relevant evidence for product liability claims</li><li>Identify key witness statements</li><li>Create summary of findings</li><li>Coordinate with expert witnesses</li><li>Prepare preliminary evidence report</li><li>Update case management system</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: April 30, 2024 | Case #: CA-2024-0456</span></p>",
+    "to": ["litigation-team@synergyos.com", "paralegals@synergyos.com"],
+    "cc": ["senior-partner@synergyos.com"],
+    "attachments": ["Document_Review_Protocol.pdf", "Evidence_Log_Template.xlsx"]
+} 

@@ -1,0 +1,20 @@
+{
+    "id": "Message-4e56f902-g345-5h67-e890-123456789bcd",
+    "itemId": "Task-5f67g013-h456-6i78-f901-234567890cde",
+    "createdBy": {
+        "id": "User-6g78h124-i567-7j89-g012-345678901def",
+        "email": "david.chen@synergyos.com",
+        "name": "David Chen"
+    },
+    "modifiedBy": {
+        "id": "User-6g78h124-i567-7j89-g012-345678901def",
+        "email": "david.chen@synergyos.com",
+        "name": "David Chen"
+    },
+    "createdDateTime": 1730976515455,
+    "modifiedDateTime": 1730976515455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Contract Automation Implementation Project:</span></p><ul><li>Map current contract processes</li><li>Identify automation opportunities</li><li>Configure document assembly tools</li><li>Create template library</li><li>Set up approval workflows</li><li>Test automated processes</li><li>Train end users</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: July 31, 2024 | Project: AUTO-2024-002</span></p>",
+    "to": ["legal-tech@synergyos.com", "contracts-team@synergyos.com"],
+    "cc": ["it-support@synergyos.com", "process-improvement@synergyos.com"],
+    "attachments": ["Process_Maps.pdf", "Template_Library.zip", "Training_Guide.pdf"]
+} 

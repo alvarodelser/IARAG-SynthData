@@ -1,0 +1,20 @@
+{
+    "id": "Message-1t23u679-v012-2w34-t567-890123456rst",
+    "itemId": "Task-2u34v780-w123-3x45-u678-901234567stu",
+    "createdBy": {
+        "id": "User-3v45w891-x234-4y56-v789-012345678tuv",
+        "email": "james.wilson@synergyos.com",
+        "name": "James Wilson"
+    },
+    "modifiedBy": {
+        "id": "User-3v45w891-x234-4y56-v789-012345678tuv",
+        "email": "james.wilson@synergyos.com",
+        "name": "James Wilson"
+    },
+    "createdDateTime": 1730974415455,
+    "modifiedDateTime": 1730974415455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Office Relocation Planning:</span></p><ul><li>Finalize new office layout</li><li>Create moving timeline</li><li>Coordinate with moving company</li><li>Update company address everywhere</li><li>Plan IT infrastructure setup</li><li>Organize employee moving briefing</li><li>Create seating arrangement</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Move Date: August 1, 2024</span></p>",
+    "to": ["facilities@synergyos.com", "hr-team@synergyos.com", "it-team@synergyos.com"],
+    "cc": ["all-employees@synergyos.com"],
+    "attachments": ["Office_Layout.pdf", "Moving_Schedule.pdf", "New_Address_Details.docx"]
+} 

@@ -1,0 +1,20 @@
+{
+    "id": "Message-2s34t780-u123-3v45-s678-901234567pqr",
+    "itemId": "Task-3t45u891-v234-4w56-t789-012345678qrs",
+    "createdBy": {
+        "id": "User-4u56v902-w345-5x67-u890-123456789rst",
+        "email": "sophia.mueller@synergyos.com",
+        "name": "Sophia Mueller"
+    },
+    "modifiedBy": {
+        "id": "User-4u56v902-w345-5x67-u890-123456789rst",
+        "email": "sophia.mueller@synergyos.com",
+        "name": "Sophia Mueller"
+    },
+    "createdDateTime": 1730976115455,
+    "modifiedDateTime": 1730976115455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">EU-US Data Transfer Agreement Review:</span></p><ul><li>Review updated SCCs requirements</li><li>Assess data transfer mechanisms</li><li>Update privacy impact assessments</li><li>Review vendor agreements</li><li>Document safeguard measures</li><li>Update data transfer registry</li><li>Prepare compliance report</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Critical | Due: May 10, 2024 | Ref: GDPR-2024-034</span></p>",
+    "to": ["privacy-team@synergyos.com", "eu-compliance@synergyos.com"],
+    "cc": ["dpo@synergyos.com", "international-legal@synergyos.com"],
+    "attachments": ["Transfer_Impact_Assessment.pdf", "Vendor_Registry.xlsx", "Compliance_Report.docx"]
+} 

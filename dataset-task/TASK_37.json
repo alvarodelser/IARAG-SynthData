@@ -1,0 +1,20 @@
+{
+    "id": "Message-8c90d346-e789-9f01-c234-567890123zab",
+    "itemId": "Task-9d01e457-f890-0g12-d345-678901234abc",
+    "createdBy": {
+        "id": "User-0e12f568-g901-1h23-e456-789012345bcd",
+        "email": "rachel.kim@synergyos.com",
+        "name": "Rachel Kim"
+    },
+    "modifiedBy": {
+        "id": "User-0e12f568-g901-1h23-e456-789012345bcd",
+        "email": "rachel.kim@synergyos.com",
+        "name": "Rachel Kim"
+    },
+    "createdDateTime": 1730977315455,
+    "modifiedDateTime": 1730977315455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">🧾 Monthly Legal Department Billing Review:</span></p><ul><li>Review time entries</li><li>Validate expense codes</li><li>Process vendor invoices</li><li>Reconcile billing discrepancies</li><li>Generate client invoices</li><li>Update billing forecasts</li><li>Prepare billing summary report</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: April 30, 2024 | Category: Administrative</span></p>",
+    "to": ["billing-team@synergyos.com", "finance-department@synergyos.com"],
+    "cc": ["accounting@synergyos.com"],
+    "attachments": ["Billing_Summary.xlsx", "Invoice_Batch.pdf", "Expense_Report.xlsx"]
+} 

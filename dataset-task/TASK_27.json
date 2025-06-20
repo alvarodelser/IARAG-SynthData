@@ -1,0 +1,20 @@
+{
+    "id": "Message-8y90z346-a789-9b01-y234-567890123vwx",
+    "itemId": "Task-9z01a457-b890-0c12-z345-678901234wxy",
+    "createdBy": {
+        "id": "User-0a12b568-c901-1d23-a456-789012345xyz",
+        "email": "maria.garcia@synergyos.com",
+        "name": "Maria Garcia"
+    },
+    "modifiedBy": {
+        "id": "User-0a12b568-c901-1d23-a456-789012345xyz",
+        "email": "maria.garcia@synergyos.com",
+        "name": "Maria Garcia"
+    },
+    "createdDateTime": 1730976315455,
+    "modifiedDateTime": 1730976315455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Summer 2024 Legal Internship Program:</span></p><ul><li>Design program curriculum</li><li>Create rotation schedule</li><li>Prepare training materials</li><li>Assign mentor pairings</li><li>Schedule speaker series</li><li>Plan evaluation process</li><li>Coordinate with HR on onboarding</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Medium | Due: May 15, 2024 | Program: INTERN-2024</span></p>",
+    "to": ["legal-training@synergyos.com", "hr-recruiting@synergyos.com"],
+    "cc": ["practice-heads@synergyos.com", "mentor-team@synergyos.com"],
+    "attachments": ["Program_Curriculum.pdf", "Rotation_Schedule.xlsx", "Training_Manual.docx"]
+} 

@@ -1,0 +1,20 @@
+{
+    "id": "Message-1x23y679-z012-2a34-x567-890123456uvw",
+    "itemId": "Task-2y34z780-a123-3b45-y678-901234567vwx",
+    "createdBy": {
+        "id": "User-3z45a891-b234-4c56-z789-012345678wxy",
+        "email": "mark.anderson@synergyos.com",
+        "name": "Mark Anderson"
+    },
+    "modifiedBy": {
+        "id": "User-3z45a891-b234-4c56-z789-012345678wxy",
+        "email": "mark.anderson@synergyos.com",
+        "name": "Mark Anderson"
+    },
+    "createdDateTime": 1730975415455,
+    "modifiedDateTime": 1730975415455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Q2 2024 Legal Department Budget Review:</span></p><ul><li>Review Q1 expenditures</li><li>Analyze outside counsel expenses</li><li>Review litigation cost projections</li><li>Update technology budget allocation</li><li>Assess staffing requirements</li><li>Prepare variance analysis</li><li>Draft budget adjustment recommendations</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: April 25, 2024 | Ref: BUD-2024-Q2</span></p>",
+    "to": ["legal-finance@synergyos.com", "department-heads@synergyos.com"],
+    "cc": ["cfo@synergyos.com", "general-counsel@synergyos.com"],
+    "attachments": ["Q1_Expenditure_Report.xlsx", "Budget_Projections.pdf", "Staffing_Analysis.docx"]
+} 

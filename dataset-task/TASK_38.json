@@ -1,0 +1,20 @@
+{
+    "id": "Message-1f23g679-h012-2i34-f567-890123456cde",
+    "itemId": "Task-2g34h780-i123-3j45-g678-901234567def",
+    "createdBy": {
+        "id": "User-3h45i891-j234-4k56-h789-012345678efg",
+        "email": "david.wilson@synergyos.com",
+        "name": "David Wilson"
+    },
+    "modifiedBy": {
+        "id": "User-3h45i891-j234-4k56-h789-012345678efg",
+        "email": "david.wilson@synergyos.com",
+        "name": "David Wilson"
+    },
+    "createdDateTime": 1730977415455,
+    "modifiedDateTime": 1730977415455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">🛠 E-Discovery Platform Support Issues:</span></p><ul><li>Investigate search functionality errors</li><li>Test system performance</li><li>Review error logs</li><li>Coordinate with vendor support</li><li>Document workarounds</li><li>Update user guidelines</li><li>Schedule system maintenance</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Critical | Resolution: 24 hours | Category: Support</span></p>",
+    "to": ["it-support@synergyos.com", "ediscovery-admin@synergyos.com"],
+    "cc": ["vendor-support@ediscovery.com"],
+    "attachments": ["Error_Logs.txt", "System_Report.pdf", "User_Guidelines.docx"]
+} 

@@ -1,0 +1,20 @@
+{
+    "id": "Message-6i78j124-k567-7l89-i012-345678901ghi",
+    "itemId": "Task-7j89k235-l678-8m90-j123-456789012hij",
+    "createdBy": {
+        "id": "User-8k90l346-m789-9n01-k234-567890123ijk",
+        "email": "patricia.lee@synergyos.com",
+        "name": "Patricia Lee"
+    },
+    "modifiedBy": {
+        "id": "User-8k90l346-m789-9n01-k234-567890123ijk",
+        "email": "patricia.lee@synergyos.com",
+        "name": "Patricia Lee"
+    },
+    "createdDateTime": 1730974915455,
+    "modifiedDateTime": 1730974915455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Patent Application Filing - AI Algorithm:</span></p><ul><li>Complete patent application forms</li><li>Prepare technical specifications</li><li>Draft patent claims</li><li>Review prior art search results</li><li>Coordinate with inventors for signatures</li><li>Submit provisional application</li><li>Calendar follow-up deadlines</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: June 1, 2024 | Patent Ref: P24-0078</span></p>",
+    "to": ["ip-team@synergyos.com", "patent-attorneys@synergyos.com"],
+    "cc": ["inventors@synergyos.com", "legal-operations@synergyos.com"],
+    "attachments": ["Technical_Specifications.pdf", "Prior_Art_Search.pdf", "Inventor_Declaration.docx"]
+} 

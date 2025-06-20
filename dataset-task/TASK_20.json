@@ -1,0 +1,20 @@
+{
+    "id": "Message-7d89e235-f678-8g90-d123-456789012abc",
+    "itemId": "Task-8e90f346-g789-9h01-e234-567890123bcd",
+    "createdBy": {
+        "id": "User-9f01g457-h890-0i12-f345-678901234cde",
+        "email": "kevin.park@synergyos.com",
+        "name": "Kevin Park"
+    },
+    "modifiedBy": {
+        "id": "User-9f01g457-h890-0i12-f345-678901234cde",
+        "email": "kevin.park@synergyos.com",
+        "name": "Kevin Park"
+    },
+    "createdDateTime": 1730975615455,
+    "modifiedDateTime": 1730975615455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">Q2 2024 Regulatory Filing Deadline Management:</span></p><ul><li>Update regulatory calendar</li><li>Review upcoming SEC filings</li><li>Check state compliance deadlines</li><li>Verify international filing requirements</li><li>Coordinate with external auditors</li><li>Prepare filing checklist</li><li>Schedule internal review meetings</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: Critical | Due: Ongoing | Quarter: Q2 2024</span></p>",
+    "to": ["regulatory-team@synergyos.com", "compliance-officers@synergyos.com"],
+    "cc": ["legal-department@synergyos.com", "external-auditors@auditfirm.com"],
+    "attachments": ["Regulatory_Calendar.xlsx", "Filing_Requirements.pdf", "Compliance_Checklist.docx"]
+} 

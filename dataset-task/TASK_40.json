@@ -1,0 +1,20 @@
+{
+    "id": "Message-7l89m235-n678-8o90-l123-456789012ijk",
+    "itemId": "Task-8m90n346-o789-9p01-m234-567890123jkl",
+    "createdBy": {
+        "id": "User-9n01o457-p890-0q12-n345-678901234klm",
+        "email": "brian.parker@synergyos.com",
+        "name": "Brian Parker"
+    },
+    "modifiedBy": {
+        "id": "User-9n01o457-p890-0q12-n345-678901234klm",
+        "email": "brian.parker@synergyos.com",
+        "name": "Brian Parker"
+    },
+    "createdDateTime": 1730977615455,
+    "modifiedDateTime": 1730977615455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">📈 Key Client Account Review - Q2 2024:</span></p><ul><li>Review service level metrics</li><li>Analyze billing history</li><li>Prepare performance reports</li><li>Schedule client meetings</li><li>Update account plans</li><li>Identify growth opportunities</li><li>Draft relationship summary</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: May 10, 2024 | Category: Client Relations</span></p>",
+    "to": ["account-management@synergyos.com", "client-services@synergyos.com"],
+    "cc": ["business-development@synergyos.com"],
+    "attachments": ["Account_Review.pptx", "Performance_Metrics.xlsx", "Growth_Plan.pdf"]
+} 

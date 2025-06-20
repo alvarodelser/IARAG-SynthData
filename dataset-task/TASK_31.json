@@ -1,0 +1,20 @@
+{
+    "id": "Message-0k12l568-m901-1n23-k456-789012345hij",
+    "itemId": "Task-1l23m679-n012-2o34-l567-890123456ijk",
+    "createdBy": {
+        "id": "User-2m34n780-o123-3p45-m678-901234567jkl",
+        "email": "rebecca.zhang@synergyos.com",
+        "name": "Rebecca Zhang"
+    },
+    "modifiedBy": {
+        "id": "User-2m34n780-o123-3p45-m678-901234567jkl",
+        "email": "rebecca.zhang@synergyos.com",
+        "name": "Rebecca Zhang"
+    },
+    "createdDateTime": 1730976715455,
+    "modifiedDateTime": 1730976715455,
+    "content": "<p style=\"margin: 0\"><span style=\"font-family: Arial; font-size: 11pt\">📁 Update Standard Contract Templates:</span></p><ul><li>Review current template versions</li><li>Update force majeure clauses</li><li>Standardize formatting across templates</li><li>Add new data protection provisions</li><li>Create version control log</li><li>Update template metadata</li><li>Generate redline comparisons</li></ul><p><span style=\"font-family: Arial; font-size: 11pt\">Priority: High | Due: May 1, 2024 | Category: Document Handling</span></p>",
+    "to": ["legal-team@synergyos.com", "document-management@synergyos.com"],
+    "cc": ["compliance@synergyos.com"],
+    "attachments": ["Template_Inventory.xlsx", "Change_Log.docx", "Redline_Versions.pdf"]
+} 
