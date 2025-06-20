@@ -5,7 +5,7 @@ Repository containing the synthetic dataset created for IARAG and helper classif
 0. Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-org/IARAG-SynthData.git
+git clone https://github.com/alvarodelser/IARAG-SynthData.git
 cd IARAG-SynthData
 pip install -r requirements.txt
 ```
