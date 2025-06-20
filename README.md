@@ -2,7 +2,12 @@
 Repository containing the synthetic dataset created for IARAG and helper classification script
 
 # How to use
-0. Git pull etc etc...
+0. Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/your-org/IARAG-SynthData.git
+cd IARAG-SynthData
+pip install -r requirements.txt
 
 1. Add your dataset to the root folder. It must be named dataset-xxx where xxx is the type of document to classify. Accepted types are NOTE, CALENDAR EVENT, EMAIL, FILE and TASK. Inside the generated .json files to classify.
 
