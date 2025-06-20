@@ -15,7 +15,7 @@ pip install -r requirements.txt
   - CALENDAR EVENT
   - EMAIL
   - FILE
-  - TASK.
+  - TASK
 
 3. Add the classification categories for that type to classification_options.json.
 
