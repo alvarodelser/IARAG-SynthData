@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 4. Run `classify.py` and begin classifying. Results are on results.csv. It will not ask you to classify something previously classified.
 
-# Functions
+# Features
 - Stores synthetic datasets in JSON format, organized by type (e.g. `dataset-note`, `dataset-task`, etc.)
 - Provides a console-based checklist interface using `questionary` for easy classification
 - Allows selecting the current validator and dataset type at runtime
