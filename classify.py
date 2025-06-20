@@ -3,6 +3,7 @@ import json
 import csv
 from pathlib import Path
 import questionary
+from rich import print_json
 
 # CONFIG
 FOLDER_PREFIX = "dataset-"
@@ -59,8 +60,8 @@ def save_results(results):
 def display_json(filepath):
     with open(filepath, "r") as f:
         data = json.load(f)
-    print(f"\n--- {filepath.name} ---")
-    print(json.dumps(data, indent=2))
+    print(f"\n[bold yellow]--- {filepath.name} ---[/bold yellow]")
+    print_json(data=data)
 
 def classify_files():
     classification_options = load_classification_options()
@@ -104,10 +105,15 @@ def classify_files():
 
         display_json(file)
 
+        choices_with_exit = options + ["❌ Exit"]
         label = questionary.select(
             f"How would you classify '{file.name}'?",
-            choices=options
+            choices=choices_with_exit
         ).ask()
+        
+        if label == "❌ Exit":
+            print("Exiting classification session.")
+            break
 
         row[validator] = label
         results[file.name] = row
