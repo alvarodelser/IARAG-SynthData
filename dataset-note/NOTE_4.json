@@ -1,0 +1,28 @@
+{
+    "id": "Note-44515396-50d8-41fc-9ea8-ee5a3b24c96c",
+    "noteType": "SALES_REPORT",
+    "noteDate": 1733200888873,
+    "nameLower": "march 2024 sales pipeline update",
+    "parentId": "Folder-d085c023-758e-46ad-8ce3-6402d3ff3515",
+    "name": "March 2024 Sales Pipeline Update",
+    "createdBy": {
+        "id": "User-g6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "david.chen@synergyos.com",
+        "name": "David Chen"
+    },
+    "modifiedBy": {
+        "id": "User-g6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "david.chen@synergyos.com",
+        "name": "David Chen"
+    },
+    "createdDateTime": 1714950482018,
+    "modifiedDateTime": 1733200889187,
+    "content": "<p style=\"margin: 0\"><strong>March 2024 Sales Pipeline Report</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Monthly Overview:</strong></p><ul><li><p style=\"margin: 0\">Total Pipeline Value: $3.2M</p></li><li><p style=\"margin: 0\">Closed Deals: $850K</p></li><li><p style=\"margin: 0\">Win Rate: 35%</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Key Opportunities:</strong></p><ol><li><p style=\"margin: 0\">TechCorp Enterprise License</p><ul><li><p style=\"margin: 0\">Value: $500K</p></li><li><p style=\"margin: 0\">Stage: Contract Negotiation</p></li><li><p style=\"margin: 0\">Probability: 80%</p></li></ul></li><li><p style=\"margin: 0\">GlobalSoft Integration</p><ul><li><p style=\"margin: 0\">Value: $300K</p></li><li><p style=\"margin: 0\">Stage: Technical Review</p></li><li><p style=\"margin: 0\">Probability: 60%</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>At Risk:</strong></p><ul><li><p style=\"margin: 0\">DataFlow Solutions ($200K) - Budget constraints</p></li><li><p style=\"margin: 0\">InnovateTech ($150K) - Competitor pressure</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Next Steps:</strong></p><ul><li><p style=\"margin: 0\">Schedule follow-up with TechCorp legal team</p></li><li><p style=\"margin: 0\">Prepare technical demo for GlobalSoft</p></li><li><p style=\"margin: 0\">Review pricing strategy for Q2</p></li></ul>",
+    "bodyPreview": "<p style=\"margin: 0\"><strong>March 2024 Sales Pipeline Report</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Monthly Overview:</strong></p><ul><li><p style=\"margin: 0\">Total Pipeline Value: $3.2M</p></li><li><p style=\"margin: 0\">Closed Deals: $850K</p></li><li><p style=\"margin: 0\">Win Rate: 35%</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Key Opportunities:</strong></p><ol><li><p style=\"margin: 0\">TechCorp Enterprise License</p><ul><li><p style=\"margin: 0\">Value: $500K</p></li><li><p style=\"margin: 0\">Stage: Contract Negotiation</p></li><li><p style=\"margin: 0\">Probability: 80%</p></li></ul></li><li><p style=\"margin: 0\">GlobalSoft Integration</p><ul><li><p style=\"margin: 0\">Value: $300K</p></li><li><p style=\"margin: 0\">Stage: Technical Review</p></li><li><p style=\"margin: 0\">Probability: 60%</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>At Risk:</strong></p><ul><li><p style=\"margin: 0\">DataFlow Solutions ($200K) - Budget constraints</p></li><li><p style=\"margin: 0\">InnovateTech ($150K) - Competitor pressure</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Next Steps:</strong></p><ul><li><p style=\"margin: 0\">Schedule follow-up with TechCorp legal team</p></li><li><p style=\"margin: 0\">Prepare technical demo for GlobalSoft</p></li><li><p style=\"margin: 0\">Review pricing strategy for Q2</p></li></ul>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-d085c023-758e-46ad-8ce3-6402d3ff3515",
+    "pathNames": "SynergyOS/Sales/Pipeline",
+    "thumbnailCreated": false,
+    "colorTag": 4
+} 

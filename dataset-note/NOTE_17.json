@@ -1,0 +1,28 @@
+{
+    "id": "Note-77515396-50d8-41fc-9ea8-gg5a3b24c96c",
+    "noteType": "FINANCIAL_REPORT",
+    "noteDate": 1731900888873,
+    "nameLower": "q1 2024 financial performance review",
+    "parentId": "Folder-f085c023-758e-46ad-8ce3-6402d3ff3515",
+    "name": "Q1 2024 Financial Performance Review",
+    "createdBy": {
+        "id": "User-f6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "marcus.thompson@synergyos.com",
+        "name": "Marcus Thompson"
+    },
+    "modifiedBy": {
+        "id": "User-f6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "marcus.thompson@synergyos.com",
+        "name": "Marcus Thompson"
+    },
+    "createdDateTime": 1713650482018,
+    "modifiedDateTime": 1731900889187,
+    "content": "<p style=\"margin: 0\"><strong>Q1 2024 Financial Performance Review</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Executive Summary:</strong></p><p style=\"margin: 0\">Financial performance analysis for Q1 2024 showing strong growth in revenue and improved operational efficiency.</p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Revenue Highlights:</strong></p><ul><li><p style=\"margin: 0\">Total Revenue: $12.5M (+28% YoY)</p><ul><li><p style=\"margin: 0\">Enterprise: $8.2M (+35%)</p></li><li><p style=\"margin: 0\">SMB: $3.1M (+22%)</p></li><li><p style=\"margin: 0\">Individual: $1.2M (+15%)</p></li></ul></li><li><p style=\"margin: 0\">ARR: $48M (+32% YoY)</p></li><li><p style=\"margin: 0\">Net Revenue Retention: 118%</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Cost Analysis:</strong></p><ol><li><p style=\"margin: 0\">Operating Expenses: $9.8M</p><ul><li><p style=\"margin: 0\">R&D: $4.2M (34%)</p></li><li><p style=\"margin: 0\">Sales & Marketing: $3.1M (25%)</p></li><li><p style=\"margin: 0\">G&A: $2.5M (20%)</p></li></ul></li><li><p style=\"margin: 0\">COGS: $2.1M</p><ul><li><p style=\"margin: 0\">Infrastructure: $1.2M</p></li><li><p style=\"margin: 0\">Support: $0.9M</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Key Metrics:</strong></p><ul><li><p style=\"margin: 0\">Gross Margin: 83%</p></li><li><p style=\"margin: 0\">Operating Margin: 5%</p></li><li><p style=\"margin: 0\">CAC: $12,500</p></li><li><p style=\"margin: 0\">LTV/CAC: 5.2</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Cash Position:</strong></p><ul><li><p style=\"margin: 0\">Cash Balance: $28.5M</p></li><li><p style=\"margin: 0\">Burn Rate: $800K/month</p></li><li><p style=\"margin: 0\">Runway: 36 months</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Growth Drivers:</strong></p><ol><li><p style=\"margin: 0\">Enterprise Expansion</p><ul><li><p style=\"margin: 0\">5 new enterprise clients</p></li><li><p style=\"margin: 0\">3 major upgrades</p></li></ul></li><li><p style=\"margin: 0\">Product Innovation</p><ul><li><p style=\"margin: 0\">AI features launch</p></li><li><p style=\"margin: 0\">Platform integration</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Q2 Outlook:</strong></p><ul><li><p style=\"margin: 0\">Revenue target: $14M</p></li><li><p style=\"margin: 0\">New product launch</p></li><li><p style=\"margin: 0\">Market expansion</p></li></ul>",
+    "bodyPreview": "<p style=\"margin: 0\"><strong>Q1 2024 Financial Performance Review</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Executive Summary:</strong></p><p style=\"margin: 0\">Financial performance analysis for Q1 2024 showing strong growth in revenue and improved operational efficiency.</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-f085c023-758e-46ad-8ce3-6402d3ff3515",
+    "pathNames": "SynergyOS/Finance/Reports",
+    "thumbnailCreated": false,
+    "colorTag": 7
+} 

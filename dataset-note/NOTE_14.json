@@ -1,0 +1,28 @@
+{
+    "id": "Note-44515396-50d8-41fc-9ea8-dd5a3b24c96c",
+    "noteType": "FEEDBACK",
+    "noteDate": 1732200888873,
+    "nameLower": "q1 2024 customer feedback analysis",
+    "parentId": "Folder-f085c023-758e-46ad-8ce3-6402d3ff3515",
+    "name": "Q1 2024 Customer Feedback Analysis",
+    "createdBy": {
+        "id": "User-f6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "emma.rodriguez@synergyos.com",
+        "name": "Emma Rodriguez"
+    },
+    "modifiedBy": {
+        "id": "User-f6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "emma.rodriguez@synergyos.com",
+        "name": "Emma Rodriguez"
+    },
+    "createdDateTime": 1713950482018,
+    "modifiedDateTime": 1732200889187,
+    "content": "<p style=\"margin: 0\"><strong>Q1 2024 Customer Feedback Analysis</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Overview:</strong></p><p style=\"margin: 0\">Analysis of customer feedback collected through various channels during Q1 2024 (January - March).</p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Data Sources:</strong></p><ul><li><p style=\"margin: 0\">Support tickets: 1,247</p></li><li><p style=\"margin: 0\">Customer surveys: 523</p></li><li><p style=\"margin: 0\">App store reviews: 892</p></li><li><p style=\"margin: 0\">Social media mentions: 3,156</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Key Metrics:</strong></p><ul><li><p style=\"margin: 0\">Overall satisfaction: 4.2/5.0</p></li><li><p style=\"margin: 0\">NPS score: 42 (+5 from Q4)</p></li><li><p style=\"margin: 0\">Response rate: 28%</p></li><li><p style=\"margin: 0\">Resolution time: 4.8 hours</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Top Positive Feedback:</strong></p><ol><li><p style=\"margin: 0\">UI/UX improvements (42%)</p><ul><li><p style=\"margin: 0\">New dashboard layout</p></li><li><p style=\"margin: 0\">Mobile responsiveness</p></li></ul></li><li><p style=\"margin: 0\">Performance (38%)</p><ul><li><p style=\"margin: 0\">Faster load times</p></li><li><p style=\"margin: 0\">Better search results</p></li></ul></li><li><p style=\"margin: 0\">Customer support (35%)</p><ul><li><p style=\"margin: 0\">Quick response times</p></li><li><p style=\"margin: 0\">Helpful solutions</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Areas for Improvement:</strong></p><ol><li><p style=\"margin: 0\">Integration capabilities (25%)</p><ul><li><p style=\"margin: 0\">More third-party apps</p></li><li><p style=\"margin: 0\">Better API documentation</p></li></ul></li><li><p style=\"margin: 0\">Reporting features (18%)</p><ul><li><p style=\"margin: 0\">Custom report builder</p></li><li><p style=\"margin: 0\">Export options</p></li></ul></li><li><p style=\"margin: 0\">Pricing structure (12%)</p><ul><li><p style=\"margin: 0\">More flexible tiers</p></li><li><p style=\"margin: 0\">Volume discounts</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Action Items:</strong></p><ul><li><p style=\"margin: 0\">Prioritize integration roadmap</p></li><li><p style=\"margin: 0\">Enhance reporting module</p></li><li><p style=\"margin: 0\">Review pricing strategy</p></li><li><p style=\"margin: 0\">Expand API documentation</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Next Steps:</strong></p><ol><li><p style=\"margin: 0\">Share findings with product team</p></li><li><p style=\"margin: 0\">Update Q2 roadmap</p></li><li><p style=\"margin: 0\">Follow up with key accounts</p></li></ol>",
+    "bodyPreview": "<p style=\"margin: 0\"><strong>Q1 2024 Customer Feedback Analysis</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Overview:</strong></p><p style=\"margin: 0\">Analysis of customer feedback collected through various channels during Q1 2024 (January - March).</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-f085c023-758e-46ad-8ce3-6402d3ff3515",
+    "pathNames": "SynergyOS/Customer-Success/Analytics",
+    "thumbnailCreated": false,
+    "colorTag": 4
+} 

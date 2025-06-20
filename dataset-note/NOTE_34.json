@@ -1,0 +1,28 @@
+{
+    "id": "Note-oo945609-83sl-74to-2st1-xx8s6s57s29s",
+    "noteType": "TODO_LIST",
+    "noteDate": 1732624088873,
+    "nameLower": "api migration tasks",
+    "parentId": "Folder-ee418s356-081s-79st-1st6-9735s6tt6848",
+    "name": "API Migration Tasks",
+    "createdBy": {
+        "id": "User-ee9tss6t-3t93-889t-27t1-3ttt7t9tt6646",
+        "email": "alex.zhang@synergyos.com",
+        "name": "Alex Zhang"
+    },
+    "modifiedBy": {
+        "id": "User-ee9tss6t-3t93-889t-27t1-3ttt7t9tt6646",
+        "email": "alex.zhang@synergyos.com",
+        "name": "Alex Zhang"
+    },
+    "createdDateTime": 1714373682018,
+    "modifiedDateTime": 1732624089187,
+    "content": "<p style=\"margin: 0\">API v2 Migration Tasks</p><p style=\"margin: 0\">last updated: 3/22</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">phase 1 - setup:</p><p style=\"margin: 0\">[x] create new branch</p><p style=\"margin: 0\">[x] setup test env</p><p style=\"margin: 0\">[x] update swagger docs</p><p style=\"margin: 0\">[ ] configure ci pipeline</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">phase 2 - core endpoints:</p><p style=\"margin: 0\">[x] /users</p><p style=\"margin: 0\">[ ] /auth (in progress)</p><p style=\"margin: 0\">[ ] /projects</p><p style=\"margin: 0\">[ ] /teams</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">phase 3 - data migration:</p><p style=\"margin: 0\">[ ] write migration scripts</p><p style=\"margin: 0\">[ ] test data integrity</p><p style=\"margin: 0\">[ ] backup strategy</p><p style=\"margin: 0\">[ ] rollback plan</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">testing:</p><p style=\"margin: 0\">[ ] unit tests</p><p style=\"margin: 0\">[ ] integration tests</p><p style=\"margin: 0\">[ ] load testing</p><p style=\"margin: 0\">[ ] security scan</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">bugs/issues:</p><p style=\"margin: 0\">- rate limiting not working</p><p style=\"margin: 0\">- auth tokens expiring too soon</p><p style=\"margin: 0\">- need better error handling</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">notes:</p><p style=\"margin: 0\">- check PR #234 for auth changes</p><p style=\"margin: 0\">- need to update docs w/ new endpoints</p><p style=\"margin: 0\">- schedule review w/ security team</p><p style=\"margin: 0\">- add metrics/monitoring</p>",
+    "bodyPreview": "<p style=\"margin: 0\">API v2 Migration Tasks</p><p style=\"margin: 0\">last updated: 3/22</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">phase 1 - setup:</p><p style=\"margin: 0\">[x] create new branch</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-ee418s356-081s-79st-1st6-9735s6tt6848",
+    "pathNames": "SynergyOS/Engineering/Projects",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

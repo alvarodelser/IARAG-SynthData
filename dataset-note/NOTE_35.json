@@ -1,0 +1,28 @@
+{
+    "id": "Note-pp056710-94tm-85up-3tu2-yy9t7t68t30t",
+    "noteType": "STATUS_UPDATE",
+    "noteDate": 1732710488873,
+    "nameLower": "backend team - week of mar 18",
+    "parentId": "Folder-ff529t467-192t-80tu-2tu7-0846t7uu7959",
+    "name": "Backend Team - Week of Mar 18",
+    "createdBy": {
+        "id": "User-ff0utt7u-4u04-990u-38u2-4uuu8u0uu7757",
+        "email": "rachel.patel@synergyos.com",
+        "name": "Rachel Patel"
+    },
+    "modifiedBy": {
+        "id": "User-ff0utt7u-4u04-990u-38u2-4uuu8u0uu7757",
+        "email": "rachel.patel@synergyos.com",
+        "name": "Rachel Patel"
+    },
+    "createdDateTime": 1714460082018,
+    "modifiedDateTime": 1732710489187,
+    "content": "<p style=\"margin: 0\">Backend Team Status Update</p><p style=\"margin: 0\">Week of March 18-22, 2024</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">🎯 Key Achievements:</p><p style=\"margin: 0\">- Launched v2.5 of search API</p><p style=\"margin: 0\">- Reduced API latency by 35%</p><p style=\"margin: 0\">- Completed security audit fixes</p><p style=\"margin: 0\">- New logging system in prod</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">🚧 In Progress:</p><p style=\"margin: 0\">- Auth service migration (65%)</p><p style=\"margin: 0\">- Redis cache optimization</p><p style=\"margin: 0\">- Documentation updates</p><p style=\"margin: 0\">- Load testing new infra</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">⚠️ Blockers:</p><p style=\"margin: 0\">1. DevOps bandwidth for deployments</p><p style=\"margin: 0\">2. AWS quota increase pending</p><p style=\"margin: 0\">3. Need security review for SSO</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">📊 Metrics:</p><p style=\"margin: 0\">- Uptime: 99.98%</p><p style=\"margin: 0\">- P95 latency: 180ms (-50ms)</p><p style=\"margin: 0\">- Error rate: 0.02%</p><p style=\"margin: 0\">- CPU usage: 65% avg</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">👥 Team Updates:</p><p style=\"margin: 0\">- Sarah back from PTO</p><p style=\"margin: 0\">- New hire starting next week</p><p style=\"margin: 0\">- 2 open reqs in progress</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">📅 Next Week:</p><p style=\"margin: 0\">- Complete auth migration</p><p style=\"margin: 0\">- Start payment API redesign</p><p style=\"margin: 0\">- Security review for v3.0</p><p style=\"margin: 0\">- Team planning session</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">💭 Notes:</p><p style=\"margin: 0\">- Need to schedule Q2 planning</p><p style=\"margin: 0\">- Consider adding monitoring</p><p style=\"margin: 0\">- Review tech debt backlog</p>",
+    "bodyPreview": "<p style=\"margin: 0\">Backend Team Status Update</p><p style=\"margin: 0\">Week of March 18-22, 2024</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">🎯 Key Achievements:</p><p style=\"margin: 0\">- Launched v2.5 of search API</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-ff529t467-192t-80tu-2tu7-0846t7uu7959",
+    "pathNames": "SynergyOS/Engineering/TeamUpdates",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

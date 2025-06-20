@@ -1,0 +1,28 @@
+{
+    "id": "Note-cc723487-61e9-52gd-0fb9-ll6b4c35d07d",
+    "noteType": "VENDOR_EVALUATION",
+    "noteDate": 1731587288873,
+    "nameLower": "cloud services vendor evaluation report q1 2024",
+    "parentId": "Folder-s196d134-869f-57be-9df4-7513e4gg4626",
+    "name": "Cloud Services Vendor Evaluation Report Q1 2024",
+    "createdBy": {
+        "id": "User-s7caee4c-1g61-556b-94e8-0bee4d6ff3313",
+        "email": "marcus.chen@synergyos.com",
+        "name": "Marcus Chen"
+    },
+    "modifiedBy": {
+        "id": "User-s7caee4c-1g61-556b-94e8-0bee4d6ff3313",
+        "email": "marcus.chen@synergyos.com",
+        "name": "Marcus Chen"
+    },
+    "createdDateTime": 1713336882018,
+    "modifiedDateTime": 1731587289187,
+    "content": "<p style=\"margin: 0\"><strong>Cloud Services Vendor Evaluation Report</strong></p><p style=\"margin: 0\">Q1 2024</p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Executive Summary:</strong></p><p style=\"margin: 0\">Comprehensive evaluation of major cloud service providers for SynergyOS's infrastructure expansion project. Analysis focused on performance, cost-effectiveness, security features, and integration capabilities.</p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Vendors Evaluated:</strong></p><ol><li><p style=\"margin: 0\">Amazon Web Services (AWS)</p></li><li><p style=\"margin: 0\">Microsoft Azure</p></li><li><p style=\"margin: 0\">Google Cloud Platform (GCP)</p></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Evaluation Criteria:</strong></p><ul><li><p style=\"margin: 0\">Technical Capabilities</p><ul><li><p style=\"margin: 0\">Compute resources</p></li><li><p style=\"margin: 0\">Storage solutions</p></li><li><p style=\"margin: 0\">Network infrastructure</p></li><li><p style=\"margin: 0\">AI/ML services</p></li></ul></li><li><p style=\"margin: 0\">Security & Compliance</p><ul><li><p style=\"margin: 0\">Data protection</p></li><li><p style=\"margin: 0\">Access controls</p></li><li><p style=\"margin: 0\">Compliance certifications</p></li></ul></li><li><p style=\"margin: 0\">Cost Structure</p><ul><li><p style=\"margin: 0\">Pay-as-you-go pricing</p></li><li><p style=\"margin: 0\">Reserved instances</p></li><li><p style=\"margin: 0\">Volume discounts</p></li></ul></li><li><p style=\"margin: 0\">Support & Service</p><ul><li><p style=\"margin: 0\">SLA terms</p></li><li><p style=\"margin: 0\">Technical support</p></li><li><p style=\"margin: 0\">Documentation</p></li></ul></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Scoring Summary (out of 100):</strong></p><ul><li><p style=\"margin: 0\">AWS: 92</p><ul><li><p style=\"margin: 0\">Technical: 95</p></li><li><p style=\"margin: 0\">Security: 94</p></li><li><p style=\"margin: 0\">Cost: 88</p></li><li><p style=\"margin: 0\">Support: 91</p></li></ul></li><li><p style=\"margin: 0\">Azure: 89</p><ul><li><p style=\"margin: 0\">Technical: 90</p></li><li><p style=\"margin: 0\">Security: 92</p></li><li><p style=\"margin: 0\">Cost: 85</p></li><li><p style=\"margin: 0\">Support: 89</p></li></ul></li><li><p style=\"margin: 0\">GCP: 87</p><ul><li><p style=\"margin: 0\">Technical: 88</p></li><li><p style=\"margin: 0\">Security: 90</p></li><li><p style=\"margin: 0\">Cost: 86</p></li><li><p style=\"margin: 0\">Support: 84</p></li></ul></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Cost Comparison (Monthly Estimate):</strong></p><ul><li><p style=\"margin: 0\">AWS: $45,000</p></li><li><p style=\"margin: 0\">Azure: $48,000</p></li><li><p style=\"margin: 0\">GCP: $46,500</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Key Findings:</strong></p><ol><li><p style=\"margin: 0\">AWS leads in technical capabilities and market presence</p></li><li><p style=\"margin: 0\">Azure offers strong enterprise integration</p></li><li><p style=\"margin: 0\">GCP excels in data analytics and ML services</p></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Recommendation:</strong></p><p style=\"margin: 0\">Based on our evaluation, we recommend proceeding with AWS as our primary cloud provider, with Azure as a secondary provider for specific enterprise workloads. This multi-cloud approach will provide optimal flexibility and risk mitigation.</p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Next Steps:</strong></p><ol><li><p style=\"margin: 0\">Contract negotiation with AWS</p></li><li><p style=\"margin: 0\">Migration planning</p></li><li><p style=\"margin: 0\">Team training program</p></li></ol>",
+    "bodyPreview": "<p style=\"margin: 0\"><strong>Cloud Services Vendor Evaluation Report</strong></p><p style=\"margin: 0\">Q1 2024</p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Executive Summary:</strong></p><p style=\"margin: 0\">Comprehensive evaluation of major cloud service providers for SynergyOS's infrastructure expansion project. Analysis focused on performance, cost-effectiveness, security features, and integration capabilities.</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-s196d134-869f-57be-9df4-7513e4gg4626",
+    "pathNames": "SynergyOS/Procurement/VendorEvaluations",
+    "thumbnailCreated": false,
+    "colorTag": 4
+} 

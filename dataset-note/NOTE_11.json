@@ -1,0 +1,28 @@
+{
+    "id": "Note-11515396-50d8-41fc-9ea8-ll5a3b24c96c",
+    "noteType": "INCIDENT_REPORT",
+    "noteDate": 1732500888873,
+    "nameLower": "production incident report - api gateway outage",
+    "parentId": "Folder-k085c023-758e-46ad-8ce3-6402d3ff3515",
+    "name": "Production Incident Report - API Gateway Outage",
+    "createdBy": {
+        "id": "User-n6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "james.wilson@synergyos.com",
+        "name": "James Wilson"
+    },
+    "modifiedBy": {
+        "id": "User-n6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "james.wilson@synergyos.com",
+        "name": "James Wilson"
+    },
+    "createdDateTime": 1714250482018,
+    "modifiedDateTime": 1732500889187,
+    "content": "<p style=\"margin: 0\"><strong>Incident Report: API Gateway Outage</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Incident Details:</strong></p><ul><li><p style=\"margin: 0\">Date: March 14, 2024</p></li><li><p style=\"margin: 0\">Duration: 45 minutes (14:30-15:15 UTC)</p></li><li><p style=\"margin: 0\">Severity: P1 (Critical)</p></li><li><p style=\"margin: 0\">Impact: 100% API Gateway downtime</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Timeline:</strong></p><ol><li><p style=\"margin: 0\">14:30 UTC - Initial alert triggered</p><ul><li><p style=\"margin: 0\">High latency detected</p></li><li><p style=\"margin: 0\">Error rate spike observed</p></li></ul></li><li><p style=\"margin: 0\">14:35 UTC - Investigation started</p><ul><li><p style=\"margin: 0\">SRE team engaged</p></li><li><p style=\"margin: 0\">Initial diagnostics run</p></li></ul></li><li><p style=\"margin: 0\">14:45 UTC - Root cause identified</p><ul><li><p style=\"margin: 0\">Memory leak in rate limiter</p></li><li><p style=\"margin: 0\">Resource exhaustion confirmed</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Resolution:</strong></p><ul><li><p style=\"margin: 0\">Gateway pods restarted</p></li><li><p style=\"margin: 0\">Rate limiter configuration updated</p></li><li><p style=\"margin: 0\">Memory limits adjusted</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Follow-up Actions:</strong></p><ol><li><p style=\"margin: 0\">Implement memory monitoring</p></li><li><p style=\"margin: 0\">Review rate limiter logic</p></li><li><p style=\"margin: 0\">Update runbook documentation</p></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Lessons Learned:</strong></p><ul><li><p style=\"margin: 0\">Need better memory tracking</p></li><li><p style=\"margin: 0\">Alert thresholds too high</p></li><li><p style=\"margin: 0\">Documentation gaps identified</p></li></ul>",
+    "bodyPreview": "<p style=\"margin: 0\"><strong>Incident Report: API Gateway Outage</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Incident Details:</strong></p><ul><li><p style=\"margin: 0\">Date: March 14, 2024</p></li><li><p style=\"margin: 0\">Duration: 45 minutes (14:30-15:15 UTC)</p></li><li><p style=\"margin: 0\">Severity: P1 (Critical)</p></li><li><p style=\"margin: 0\">Impact: 100% API Gateway downtime</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Timeline:</strong></p><ol><li><p style=\"margin: 0\">14:30 UTC - Initial alert triggered</p><ul><li><p style=\"margin: 0\">High latency detected</p></li><li><p style=\"margin: 0\">Error rate spike observed</p></li></ul></li><li><p style=\"margin: 0\">14:35 UTC - Investigation started</p><ul><li><p style=\"margin: 0\">SRE team engaged</p></li><li><p style=\"margin: 0\">Initial diagnostics run</p></li></ul></li><li><p style=\"margin: 0\">14:45 UTC - Root cause identified</p><ul><li><p style=\"margin: 0\">Memory leak in rate limiter</p></li><li><p style=\"margin: 0\">Resource exhaustion confirmed</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Resolution:</strong></p><ul><li><p style=\"margin: 0\">Gateway pods restarted</p></li><li><p style=\"margin: 0\">Rate limiter configuration updated</p></li><li><p style=\"margin: 0\">Memory limits adjusted</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Follow-up Actions:</strong></p><ol><li><p style=\"margin: 0\">Implement memory monitoring</p></li><li><p style=\"margin: 0\">Review rate limiter logic</p></li><li><p style=\"margin: 0\">Update runbook documentation</p></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Lessons Learned:</strong></p><ul><li><p style=\"margin: 0\">Need better memory tracking</p></li><li><p style=\"margin: 0\">Alert thresholds too high</p></li><li><p style=\"margin: 0\">Documentation gaps identified</p></li></ul>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-k085c023-758e-46ad-8ce3-6402d3ff3515",
+    "pathNames": "SynergyOS/Engineering/Incidents",
+    "thumbnailCreated": false,
+    "colorTag": 1
+} 

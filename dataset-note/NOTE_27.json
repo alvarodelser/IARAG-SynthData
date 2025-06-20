@@ -1,0 +1,28 @@
+{
+    "id": "Note-hh278932-16je-07li-5kg4-qq1g9h80i52i",
+    "noteType": "PERSONAL_NOTE",
+    "noteDate": 1732019288873,
+    "nameLower": "todo and reminders",
+    "parentId": "Folder-x641i689-314k-02gj-4ik9-2068j9ll9171",
+    "name": "TODO and reminders",
+    "createdBy": {
+        "id": "User-x2hfjj9h-6l16-001g-49j3-5gjj9i1kk8868",
+        "email": "rachel.patel@synergyos.com",
+        "name": "Rachel Patel"
+    },
+    "modifiedBy": {
+        "id": "User-x2hfjj9h-6l16-001g-49j3-5gjj9i1kk8868",
+        "email": "rachel.patel@synergyos.com",
+        "name": "Rachel Patel"
+    },
+    "createdDateTime": 1713768882018,
+    "modifiedDateTime": 1732019289187,
+    "content": "<p style=\"margin: 0\">URGENT:</p><p style=\"margin: 0\">- finish Q1 report!!!</p><p style=\"margin: 0\">- book flight for conference</p><p style=\"margin: 0\">- reply to client email (check spam folder???)</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">Later:</p><p style=\"margin: 0\">- update linkedin profile</p><p style=\"margin: 0\">- clean up old project files</p><p style=\"margin: 0\">- schedule dentist appt</p><p style=\"margin: 0\">- fix printer settings</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">Meeting w/ Mark notes:</p><p style=\"margin: 0\">something about new project timeline</p><p style=\"margin: 0\">budget??? check spreadsheet</p><p style=\"margin: 0\">new hire starting next month</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">Random:</p><p style=\"margin: 0\">password for dev server: devpass123 (change this!!)</p><p style=\"margin: 0\">http://stackoverflow.com/questions/12345 - check this later</p><p style=\"margin: 0\">idea for presentation: show mobile demo first</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">Remember:</p><p style=\"margin: 0\">- bring laptop charger tmrw</p><p style=\"margin: 0\">- team lunch @ 12:30</p><p style=\"margin: 0\">- WFH on Friday</p><p style=\"margin: 0\">- buy coffee filters</p>",
+    "bodyPreview": "<p style=\"margin: 0\">URGENT:</p><p style=\"margin: 0\">- finish Q1 report!!!</p><p style=\"margin: 0\">- book flight for conference</p><p style=\"margin: 0\">- reply to client email (check spam folder???)</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-x641i689-314k-02gj-4ik9-2068j9ll9171",
+    "pathNames": "SynergyOS/Personal/Notes",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

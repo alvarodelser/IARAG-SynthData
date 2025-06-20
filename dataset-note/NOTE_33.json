@@ -1,0 +1,28 @@
+{
+    "id": "Note-nn834598-72rk-63sn-1rs0-ww7r5r46r18r",
+    "noteType": "TODO_LIST",
+    "noteDate": 1732537688873,
+    "nameLower": "stuff to do this week",
+    "parentId": "Folder-dd307r245-970r-68rs-0rs5-8624r5ss5737",
+    "name": "stuff to do this week",
+    "createdBy": {
+        "id": "User-dd8srr5s-2s82-778s-16s0-2sss6s8ss5535",
+        "email": "mike.johnson@synergyos.com",
+        "name": "Mike Johnson"
+    },
+    "modifiedBy": {
+        "id": "User-dd8srr5s-2s82-778s-16s0-2sss6s8ss5535",
+        "email": "mike.johnson@synergyos.com",
+        "name": "Mike Johnson"
+    },
+    "createdDateTime": 1714287282018,
+    "modifiedDateTime": 1732537689187,
+    "content": "<p style=\"margin: 0\">work stuff:</p><p style=\"margin: 0\">[ ] finish perf review (due fri!!!)</p><p style=\"margin: 0\">[x] team 1:1s</p><p style=\"margin: 0\">[ ] budget spreadsheet</p><p style=\"margin: 0\">[x] reply to vendor email</p><p style=\"margin: 0\">[ ] approve timeoff requests</p><p style=\"margin: 0\">[ ] slides for next week</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">personal:</p><p style=\"margin: 0\">[x] dentist @ 2pm tues</p><p style=\"margin: 0\">[ ] car service</p><p style=\"margin: 0\">[ ] mom's bday gift!!</p><p style=\"margin: 0\">[x] gym membership</p><p style=\"margin: 0\">[ ] fix bathroom sink</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">shopping:</p><p style=\"margin: 0\">- coffee</p><p style=\"margin: 0\">- printer paper</p><p style=\"margin: 0\">- new mouse (old one dying)</p><p style=\"margin: 0\">- snacks for team meeting</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">follow up:</p><p style=\"margin: 0\">- john re: project timeline</p><p style=\"margin: 0\">- sarah about new hire</p><p style=\"margin: 0\">- IT about laptop upgrade</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">remember:</p><p style=\"margin: 0\">- wfh thursday</p><p style=\"margin: 0\">- team lunch friday</p><p style=\"margin: 0\">- expense reports due EOW</p><p style=\"margin: 0\">- change password (expires soon)</p>",
+    "bodyPreview": "<p style=\"margin: 0\">work stuff:</p><p style=\"margin: 0\">[ ] finish perf review (due fri!!!)</p><p style=\"margin: 0\">[x] team 1:1s</p><p style=\"margin: 0\">[ ] budget spreadsheet</p><p style=\"margin: 0\">[x] reply to vendor email</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-dd307r245-970r-68rs-0rs5-8624r5ss5737",
+    "pathNames": "SynergyOS/Personal/Tasks",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

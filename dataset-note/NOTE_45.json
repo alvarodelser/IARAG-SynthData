@@ -1,0 +1,28 @@
+{
+    "id": "Note-zz056710-94tm-85un-3tu2-ii9t7t68t30t",
+    "noteType": "PERSONAL",
+    "noteDate": 1733574488873,
+    "nameLower": "weekly planning + random ideas",
+    "parentId": "Folder-pp529t467-192t-80tu-2tu7-0846t7uu7959",
+    "name": "Weekly Planning + Random Ideas",
+    "createdBy": {
+        "id": "User-pp0utt7u-4u04-990u-38u2-4uuu8u0uu7757",
+        "email": "emma.taylor@synergyos.com",
+        "name": "Emma Taylor"
+    },
+    "modifiedBy": {
+        "id": "User-pp0utt7u-4u04-990u-38u2-4uuu8u0uu7757",
+        "email": "emma.taylor@synergyos.com",
+        "name": "Emma Taylor"
+    },
+    "createdDateTime": 1715324082018,
+    "modifiedDateTime": 1733574489187,
+    "content": "<p style=\\\"margin: 0\\\">📅 Week of March 18-22, 2024</p><p style=\\\"margin: 0\\\">=======================</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">Monday:</p><p style=\\\"margin: 0\\\">- [x] 9:30 Team standup</p><p style=\\\"margin: 0\\\">- [x] Review PR #234 (mobile navigation)</p><p style=\\\"margin: 0\\\">- [ ] Draft Q2 planning doc</p><p style=\\\"margin: 0\\\">- [x] 1:1 with Michael re: API changes</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">Tuesday:</p><p style=\\\"margin: 0\\\">- [ ] Finish user dashboard redesign</p><p style=\\\"margin: 0\\\">- [ ] 2:00 Client demo (ACME Corp)</p><p style=\\\"margin: 0\\\">- [ ] Review analytics data</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">Wednesday:</p><p style=\\\"margin: 0\\\">- [ ] Tech talk: GraphQL best practices</p><p style=\\\"margin: 0\\\">- [ ] Debug prod issue #567</p><p style=\\\"margin: 0\\\">- [ ] Update API documentation</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">Thursday:</p><p style=\\\"margin: 0\\\">- [ ] Architecture review meeting</p><p style=\\\"margin: 0\\\">- [ ] Finish v3.2 release notes</p><p style=\\\"margin: 0\\\">- [ ] Code review day</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">Friday:</p><p style=\\\"margin: 0\\\">- [ ] Team retrospective</p><p style=\\\"margin: 0\\\">- [ ] Clean up JIRA tickets</p><p style=\\\"margin: 0\\\">- [ ] Plan next sprint</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">🎯 Focus Areas:</p><p style=\\\"margin: 0\\\">- Mobile app performance</p><p style=\\\"margin: 0\\\">- Documentation improvements</p><p style=\\\"margin: 0\\\">- Team knowledge sharing</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">💡 Random Ideas & Notes:</p><p style=\\\"margin: 0\\\">- Try using Redis for session management?</p><p style=\\\"margin: 0\\\">  - Faster than current DB solution</p><p style=\\\"margin: 0\\\">  - Need to check memory usage</p><p style=\\\"margin: 0\\\">  - Ask Sarah about her implementation</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">- Mobile app improvements:</p><p style=\\\"margin: 0\\\">  * Offline mode for basic features</p><p style=\\\"margin: 0\\\">  * Batch sync when connection restored</p><p style=\\\"margin: 0\\\">  * Progressive image loading</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">- Team productivity ideas:</p><p style=\\\"margin: 0\\\">  1. No-meeting Wednesdays?</p><p style=\\\"margin: 0\\\">  2. Async standups in Slack</p><p style=\\\"margin: 0\\\">  3. Better PR templates</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">🔍 Research Topics:</p><p style=\\\"margin: 0\\\">* GraphQL subscriptions</p><p style=\\\"margin: 0\\\">* WebAssembly for data processing</p><p style=\\\"margin: 0\\\">* New React server components</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">📚 Reading List:</p><p style=\\\"margin: 0\\\">- https://martinfowler.com/articles/patterns-of-distributed-systems/</p><p style=\\\"margin: 0\\\">- https://web.dev/articles/performance-scoring</p><p style=\\\"margin: 0\\\">- Team recommended: \\\"Building Microservices\\\" (Sam Newman)</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">🎨 UI/UX Ideas:</p><p style=\\\"margin: 0\\\">```css</p><p style=\\\"margin: 0\\\">/* New color scheme? */</p><p style=\\\"margin: 0\\\">.theme-2024 {</p><p style=\\\"margin: 0\\\">  --primary: #2563eb;</p><p style=\\\"margin: 0\\\">  --secondary: #3b82f6;</p><p style=\\\"margin: 0\\\">  --accent: #60a5fa;</p><p style=\\\"margin: 0\\\">  --background: #f8fafc;</p><p style=\\\"margin: 0\\\">}</p><p style=\\\"margin: 0\\\">```</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">Remember:</p><p style=\\\"margin: 0\\\">- Order more coffee for office</p><p style=\\\"margin: 0\\\">- Submit conference talk proposal</p><p style=\\\"margin: 0\\\">- Schedule dentist appointment</p><p style=\\\"margin: 0\\\">- Return library books</p>",
+    "bodyPreview": "<p style=\\\"margin: 0\\\">📅 Week of March 18-22, 2024</p><p style=\\\"margin: 0\\\">=======================</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">Monday:</p><p style=\\\"margin: 0\\\">- [x] 9:30 Team standup</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-pp529t467-192t-80tu-2tu7-0846t7uu7959",
+    "pathNames": "SynergyOS/Personal/Planning",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

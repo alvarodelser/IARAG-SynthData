@@ -1,0 +1,28 @@
+{
+    "id": "Note-ii389043-27kf-18mj-6lh5-rr2h0i91j63j",
+    "noteType": "CODE_SNIPPETS",
+    "noteDate": 1732105688873,
+    "nameLower": "useful commands and stuff",
+    "parentId": "Folder-y752j790-425l-13hk-5jl0-3179k0mm0282",
+    "name": "useful commands and stuff",
+    "createdBy": {
+        "id": "User-y3igkk0i-7m27-112h-50k4-6hkk0j2ll9979",
+        "email": "tom.wilson@synergyos.com",
+        "name": "Tom Wilson"
+    },
+    "modifiedBy": {
+        "id": "User-y3igkk0i-7m27-112h-50k4-6hkk0j2ll9979",
+        "email": "tom.wilson@synergyos.com",
+        "name": "Tom Wilson"
+    },
+    "createdDateTime": 1713855282018,
+    "modifiedDateTime": 1732105689187,
+    "content": "<p style=\\\"margin: 0\\\">Docker stuff:</p><p style=\\\"margin: 0\\\">docker ps -a | grep \\\"Exit\\\" | cut -d ' ' -f 1 | xargs docker rm</p><p style=\\\"margin: 0\\\">docker system prune -af --volumes</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">fix node_modules:</p><p style=\\\"margin: 0\\\">rm -rf node_modules</p><p style=\\\"margin: 0\\\">rm package-lock.json</p><p style=\\\"margin: 0\\\">npm cache clean --force</p><p style=\\\"margin: 0\\\">npm i</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">git stuff i always forget:</p><p style=\\\"margin: 0\\\">git reset --hard HEAD~1</p><p style=\\\"margin: 0\\\">git push origin master --force</p><p style=\\\"margin: 0\\\">git config --global user.email \\\"tom.wilson@synergyos.com\\\"</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">css center div vertically (why is this so hard???):</p><p style=\\\"margin: 0\\\">.parent {</p><p style=\\\"margin: 0\\\">  display: flex;</p><p style=\\\"margin: 0\\\">  align-items: center;</p><p style=\\\"margin: 0\\\">  justify-content: center;</p><p style=\\\"margin: 0\\\">  min-height: 100vh;</p><p style=\\\"margin: 0\\\">}</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">prod server:</p><p style=\\\"margin: 0\\\">ssh admin@192.168.1.100</p><p style=\\\"margin: 0\\\">pass: correcthorsebatterystaple</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">kubectl stuff:</p><p style=\\\"margin: 0\\\">kubectl get pods -n production | grep Error</p><p style=\\\"margin: 0\\\">kubectl logs -f pod-name-xyz</p><p style=\\\"margin: 0\\\">kubectl port-forward svc/redis-master 6379:6379</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">that one regex that works:</p><p style=\\\"margin: 0\\\">/^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$/</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">fix permissions:</p><p style=\\\"margin: 0\\\">chmod -R 755 .</p><p style=\\\"margin: 0\\\">chown -R www-data:www-data .</p>",
+    "bodyPreview": "<p style=\\\"margin: 0\\\">Docker stuff:</p><p style=\\\"margin: 0\\\">docker ps -a | grep \\\"Exit\\\" | cut -d ' ' -f 1 | xargs docker rm</p><p style=\\\"margin: 0\\\">docker system prune -af --volumes</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-y752j790-425l-13hk-5jl0-3179k0mm0282",
+    "pathNames": "SynergyOS/Personal/CodeSnippets",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

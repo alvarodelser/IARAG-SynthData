@@ -1,0 +1,28 @@
+{
+    "id": "Note-22515396-50d8-41fc-9ea8-cc5a3b24c96c",
+    "noteType": "TRAINING",
+    "noteDate": 1733400888873,
+    "nameLower": "new employee onboarding process - technical team",
+    "parentId": "Folder-b085c023-758e-46ad-8ce3-6402d3ff3515",
+    "name": "New Employee Onboarding Process - Technical Team",
+    "createdBy": {
+        "id": "User-e6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "mike.wilson@synergyos.com",
+        "name": "Mike Wilson"
+    },
+    "modifiedBy": {
+        "id": "User-e6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "mike.wilson@synergyos.com",
+        "name": "Mike Wilson"
+    },
+    "createdDateTime": 1715150482018,
+    "modifiedDateTime": 1733400889187,
+    "content": "<p style=\"margin: 0\"><strong>Technical Team Onboarding Guide</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Week 1 Checklist:</strong></p><ol><li><p style=\"margin: 0\">System Access</p><ul><li><p style=\"margin: 0\">Development environment setup</p></li><li><p style=\"margin: 0\">GitHub access and SSH keys</p></li><li><p style=\"margin: 0\">Internal tools configuration</p></li></ul></li><li><p style=\"margin: 0\">Documentation Review</p><ul><li><p style=\"margin: 0\">Architecture overview</p></li><li><p style=\"margin: 0\">Coding standards</p></li><li><p style=\"margin: 0\">Security protocols</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Required Training:</strong></p><ul><li><p style=\"margin: 0\">Security best practices (mandatory)</p></li><li><p style=\"margin: 0\">Code review process</p></li><li><p style=\"margin: 0\">Deployment procedures</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Resources:</strong></p><ul><li><p style=\"margin: 0\">Internal wiki: wiki.synergyos.local</p></li><li><p style=\"margin: 0\">Training videos: learning.synergyos.com</p></li></ul>",
+    "bodyPreview": "<p style=\"margin: 0\"><strong>Technical Team Onboarding Guide</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Week 1 Checklist:</strong></p><ol><li><p style=\"margin: 0\">System Access</p><ul><li><p style=\"margin: 0\">Development environment setup</p></li><li><p style=\"margin: 0\">GitHub access and SSH keys</p></li><li><p style=\"margin: 0\">Internal tools configuration</p></li></ul></li><li><p style=\"margin: 0\">Documentation Review</p><ul><li><p style=\"margin: 0\">Architecture overview</p></li><li><p style=\"margin: 0\">Coding standards</p></li><li><p style=\"margin: 0\">Security protocols</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Required Training:</strong></p><ul><li><p style=\"margin: 0\">Security best practices (mandatory)</p></li><li><p style=\"margin: 0\">Code review process</p></li><li><p style=\"margin: 0\">Deployment procedures</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Resources:</strong></p><ul><li><p style=\"margin: 0\">Internal wiki: wiki.synergyos.local</p></li><li><p style=\"margin: 0\">Training videos: learning.synergyos.com</p></li></ul>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-b085c023-758e-46ad-8ce3-6402d3ff3515",
+    "pathNames": "SynergyOS/HR/Training",
+    "thumbnailCreated": false,
+    "colorTag": 2
+} 

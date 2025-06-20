@@ -1,0 +1,28 @@
+{
+    "id": "Note-vv612376-50ni-41pm-9ok8-ee5k3l24m96m",
+    "noteType": "DOCUMENTATION",
+    "noteDate": 1733228888873,
+    "nameLower": "dev environment setup 2024",
+    "parentId": "Folder-ll185z023-758n-46ko-8mn3-6402n3pp2515",
+    "name": "Dev Environment Setup 2024",
+    "createdBy": {
+        "id": "User-ll6lnn3l-0p60-556k-94n8-1cpp5n5qq2202",
+        "email": "alex.zhang@synergyos.com",
+        "name": "Alex Zhang"
+    },
+    "modifiedBy": {
+        "id": "User-ll6lnn3l-0p60-556k-94n8-1cpp5n5qq2202",
+        "email": "alex.zhang@synergyos.com",
+        "name": "Alex Zhang"
+    },
+    "createdDateTime": 1714978482018,
+    "modifiedDateTime": 1733228889187,
+    "content": "<p style=\\\"margin: 0\\\">🔧 Dev Environment Setup Guide (updated Mar 2024)</p><p style=\\\"margin: 0\\\">================================================</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">Prerequisites:</p><p style=\\\"margin: 0\\\">- Node.js 18+ (https://nodejs.org)</p><p style=\\\"margin: 0\\\">- Docker Desktop (https://docker.com/products/docker-desktop)</p><p style=\\\"margin: 0\\\">- VS Code + extensions:</p><p style=\\\"margin: 0\\\">  - ESLint</p><p style=\\\"margin: 0\\\">  - Prettier</p><p style=\\\"margin: 0\\\">  - Docker</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">1. Clone & Setup:</p><p style=\\\"margin: 0\\\">```bash</p><p style=\\\"margin: 0\\\">git clone git@github.com:synergyos/platform.git</p><p style=\\\"margin: 0\\\">cd platform</p><p style=\\\"margin: 0\\\">cp .env.example .env</p><p style=\\\"margin: 0\\\">npm install</p><p style=\\\"margin: 0\\\">```</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">2. Environment Variables:</p><p style=\\\"margin: 0\\\">```env</p><p style=\\\"margin: 0\\\">NODE_ENV=development</p><p style=\\\"margin: 0\\\">API_PORT=3000</p><p style=\\\"margin: 0\\\">DB_HOST=localhost</p><p style=\\\"margin: 0\\\">REDIS_URL=redis://localhost:6379</p><p style=\\\"margin: 0\\\">```</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">3. Start Services:</p><p style=\\\"margin: 0\\\">```bash</p><p style=\\\"margin: 0\\\">docker-compose up -d  # starts postgres & redis</p><p style=\\\"margin: 0\\\">npm run migrate  # run db migrations</p><p style=\\\"margin: 0\\\">npm run dev  # start dev server</p><p style=\\\"margin: 0\\\">```</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">🚨 Common Issues:</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">Port conflicts:</p><p style=\\\"margin: 0\\\">```bash</p><p style=\\\"margin: 0\\\">lsof -i :3000  # check what's using port 3000</p><p style=\\\"margin: 0\\\">kill -9 <PID>  # kill process if needed</p><p style=\\\"margin: 0\\\">```</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">Database connection:</p><p style=\\\"margin: 0\\\">- Check if postgres is running: `docker ps | grep postgres`</p><p style=\\\"margin: 0\\\">- Try: `docker-compose down && docker-compose up -d`</p><p style=\\\"margin: 0\\\">- Reset DB: `npm run db:reset` (⚠️ destroys all data)</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">Node/NPM issues:</p><p style=\\\"margin: 0\\\">```bash</p><p style=\\\"margin: 0\\\">rm -rf node_modules</p><p style=\\\"margin: 0\\\">npm cache clean --force</p><p style=\\\"margin: 0\\\">npm install</p><p style=\\\"margin: 0\\\">```</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">🔗 Useful Links:</p><p style=\\\"margin: 0\\\">- API Docs: http://localhost:3000/docs</p><p style=\\\"margin: 0\\\">- Admin Panel: http://localhost:3000/admin</p><p style=\\\"margin: 0\\\">- Metrics: http://localhost:9090</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">📝 Notes:</p><p style=\\\"margin: 0\\\">- Use `npm run test:watch` for TDD</p><p style=\\\"margin: 0\\\">- Prettier runs on pre-commit</p><p style=\\\"margin: 0\\\">- Ask in #dev-help for access tokens</p><p style=\\\"margin: 0\\\">- Don't forget to update swagger docs</p>",
+    "bodyPreview": "<p style=\\\"margin: 0\\\">🔧 Dev Environment Setup Guide (updated Mar 2024)</p><p style=\\\"margin: 0\\\">================================================</p><p style=\\\"margin: 0\\\"></p><p style=\\\"margin: 0\\\">Prerequisites:</p><p style=\\\"margin: 0\\\">- Node.js 18+ (https://nodejs.org)</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-ll185z023-758n-46ko-8mn3-6402n3pp2515",
+    "pathNames": "SynergyOS/Engineering/Documentation",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

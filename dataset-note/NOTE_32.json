@@ -1,0 +1,28 @@
+{
+    "id": "Note-mm723487-61oj-52qn-0pq9-vv6q4q35q07q",
+    "noteType": "MEETING_NOTE",
+    "noteDate": 1732451288873,
+    "nameLower": "acme corp - integration planning",
+    "parentId": "Folder-cc196q134-869o-57qp-9qp4-7513q4rr4626",
+    "name": "ACME Corp - Integration Planning",
+    "createdBy": {
+        "id": "User-cc7qpp4q-1r71-667q-05p9-1qpp5p6rr3313",
+        "email": "sophia.chen@synergyos.com",
+        "name": "Sophia Chen"
+    },
+    "modifiedBy": {
+        "id": "User-cc7qpp4q-1r71-667q-05p9-1qpp5p6rr3313",
+        "email": "sophia.chen@synergyos.com",
+        "name": "Sophia Chen"
+    },
+    "createdDateTime": 1714200882018,
+    "modifiedDateTime": 1732451289187,
+    "content": "<p style=\"margin: 0\">ACME Integration Kickoff</p><p style=\"margin: 0\">3/22/24 - 10am PST</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">attendees:</p><p style=\"margin: 0\">- john (acme cto)</p><p style=\"margin: 0\">- sarah (acme tech lead)</p><p style=\"margin: 0\">- me, dave, maria</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">current setup:</p><p style=\"margin: 0\">- oracle db (v12)</p><p style=\"margin: 0\">- custom auth system????</p><p style=\"margin: 0\">- lots of legacy apis</p><p style=\"margin: 0\">- no api docs available yet</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">requirements:</p><p style=\"margin: 0\">- need SSO integration</p><p style=\"margin: 0\">- real-time sync critical!!!</p><p style=\"margin: 0\">- data migration by EOY</p><p style=\"margin: 0\">- compliance stuff (hipaa?)</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">questions:</p><p style=\"margin: 0\">Q: timeline?</p><p style=\"margin: 0\">A: want beta in 3mo</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">Q: budget?</p><p style=\"margin: 0\">A: tbd - john will confirm</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">Q: support?</p><p style=\"margin: 0\">A: 24/7 needed</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">todo:</p><p style=\"margin: 0\">@me - send arch diagram</p><p style=\"margin: 0\">@dave - review api specs</p><p style=\"margin: 0\">@maria - check compliance reqs</p><p style=\"margin: 0\">@sarah - send access to test env</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">next steps:</p><p style=\"margin: 0\">1. tech assessment (2wks)</p><p style=\"margin: 0\">2. poc phase (4-6wks)</p><p style=\"margin: 0\">3. pilot w/ small team</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">next meeting: next tues 10am</p><p style=\"margin: 0\">- review arch design</p><p style=\"margin: 0\">- timeline planning</p><p style=\"margin: 0\">- ?? security review</p>",
+    "bodyPreview": "<p style=\"margin: 0\">ACME Integration Kickoff</p><p style=\"margin: 0\">3/22/24 - 10am PST</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">attendees:</p><p style=\"margin: 0\">- john (acme cto)</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-cc196q134-869o-57qp-9qp4-7513q4rr4626",
+    "pathNames": "SynergyOS/Sales/ClientMeetings",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

@@ -1,0 +1,28 @@
+{
+    "id": "Note-qq167821-05un-96vq-4uv3-zz0u8u79u41u",
+    "noteType": "STATUS_UPDATE",
+    "noteDate": 1732796888873,
+    "nameLower": "mobile app status - mar 22",
+    "parentId": "Folder-gg630u578-203u-91uv-3uv8-1957u8vv8060",
+    "name": "Mobile App Status - Mar 22",
+    "createdBy": {
+        "id": "User-gg1vuu8v-5v15-001v-49v3-5vvv9v1vv8868",
+        "email": "david.lee@synergyos.com",
+        "name": "David Lee"
+    },
+    "modifiedBy": {
+        "id": "User-gg1vuu8v-5v15-001v-49v3-5vvv9v1vv8868",
+        "email": "david.lee@synergyos.com",
+        "name": "David Lee"
+    },
+    "createdDateTime": 1714546482018,
+    "modifiedDateTime": 1732796889187,
+    "content": "<p style=\"margin: 0\">quick status update on mobile app v3.2</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">done:</p><p style=\"margin: 0\">✅ offline mode working</p><p style=\"margin: 0\">✅ fixed crash on android 14</p><p style=\"margin: 0\">✅ new onboarding flow</p><p style=\"margin: 0\">✅ push notifs working again</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">in progress:</p><p style=\"margin: 0\">🚧 dark mode (90% done)</p><p style=\"margin: 0\">🚧 file upload bugs</p><p style=\"margin: 0\">🚧 performance fixes</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">blockers:</p><p style=\"margin: 0\">❌ app store review taking forever</p><p style=\"margin: 0\">❌ need new api keys</p><p style=\"margin: 0\">❌ firebase quota maxed out</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">next:</p><p style=\"margin: 0\">- finish dark mode</p><p style=\"margin: 0\">- fix remaining p0 bugs</p><p style=\"margin: 0\">- submit v3.2 to stores</p><p style=\"margin: 0\">- start planning v3.3</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">notes:</p><p style=\"margin: 0\">- ios 17.4 causing some issues</p><p style=\"margin: 0\">- need to update dependencies</p><p style=\"margin: 0\">- battery drain complaints</p>",
+    "bodyPreview": "<p style=\"margin: 0\">quick status update on mobile app v3.2</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">done:</p><p style=\"margin: 0\">✅ offline mode working</p><p style=\"margin: 0\">✅ fixed crash on android 14</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-gg630u578-203u-91uv-3uv8-1957u8vv8060",
+    "pathNames": "SynergyOS/Engineering/MobileApp",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

@@ -1,0 +1,28 @@
+{
+    "id": "Note-11515396-50d8-41fc-9ea8-bb5a3b24c96c",
+    "noteType": "CLIENT_MEETING",
+    "noteDate": 1733500888873,
+    "nameLower": "quarterly review meeting - acme corp q1 2024",
+    "parentId": "Folder-a085c023-758e-46ad-8ce3-6402d3ff3515",
+    "name": "Quarterly Review Meeting - ACME Corp Q1 2024",
+    "createdBy": {
+        "id": "User-d6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "sarah.johnson@synergyos.com",
+        "name": "Sarah Johnson"
+    },
+    "modifiedBy": {
+        "id": "User-d6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "sarah.johnson@synergyos.com",
+        "name": "Sarah Johnson"
+    },
+    "createdDateTime": 1715250482018,
+    "modifiedDateTime": 1733500889187,
+    "content": "<p style=\"margin: 0\"><strong>Quarterly Review Meeting - ACME Corp</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Attendees:</strong></p><ul><li><p style=\"margin: 0\">John Smith (ACME CEO)</p></li><li><p style=\"margin: 0\">Maria Garcia (ACME CTO)</p></li><li><p style=\"margin: 0\">Sarah Johnson (Account Manager)</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Q1 2024 Review:</strong></p><ol><li><p style=\"margin: 0\">Financial Performance</p><ul><li><p style=\"margin: 0\">Revenue: $2.5M (15% above target)</p></li><li><p style=\"margin: 0\">New contracts signed: 3</p></li></ul></li><li><p style=\"margin: 0\">Project Status</p><ul><li><p style=\"margin: 0\">Cloud migration: 80% complete</p></li><li><p style=\"margin: 0\">Security audit: Completed</p></li></ul></li><li><p style=\"margin: 0\">Next Steps</p><ul><li><p style=\"margin: 0\">Schedule technical review for May</p></li><li><p style=\"margin: 0\">Prepare Q2 roadmap</p></li></ul></li></ol>",
+    "bodyPreview": "<p style=\"margin: 0\"><strong>Quarterly Review Meeting - ACME Corp</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Attendees:</strong></p><ul><li><p style=\"margin: 0\">John Smith (ACME CEO)</p></li><li><p style=\"margin: 0\">Maria Garcia (ACME CTO)</p></li><li><p style=\"margin: 0\">Sarah Johnson (Account Manager)</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Q1 2024 Review:</strong></p><ol><li><p style=\"margin: 0\">Financial Performance</p><ul><li><p style=\"margin: 0\">Revenue: $2.5M (15% above target)</p></li><li><p style=\"margin: 0\">New contracts signed: 3</p></li></ul></li><li><p style=\"margin: 0\">Project Status</p><ul><li><p style=\"margin: 0\">Cloud migration: 80% complete</p></li><li><p style=\"margin: 0\">Security audit: Completed</p></li></ul></li><li><p style=\"margin: 0\">Next Steps</p><ul><li><p style=\"margin: 0\">Schedule technical review for May</p></li><li><p style=\"margin: 0\">Prepare Q2 roadmap</p></li></ul></li></ol>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-a085c023-758e-46ad-8ce3-6402d3ff3515",
+    "pathNames": "SynergyOS/Clients/ACME",
+    "thumbnailCreated": false,
+    "colorTag": 1
+} 

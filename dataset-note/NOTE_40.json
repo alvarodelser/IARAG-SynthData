@@ -1,0 +1,28 @@
+{
+    "id": "Note-uu501265-49yr-30zu-8yz7-dd4y2y13y85y",
+    "noteType": "DRAFT",
+    "noteDate": 1733142488873,
+    "nameLower": "meeting agenda - team offsite",
+    "parentId": "Folder-kk074y912-647y-35yz-7yz2-5391y2zz2404",
+    "name": "Meeting Agenda - Team Offsite",
+    "createdBy": {
+        "id": "User-kk5zyy2z-9z59-445z-83z7-9zzz3z5zz2202",
+        "email": "emma.brown@synergyos.com",
+        "name": "Emma Brown"
+    },
+    "modifiedBy": {
+        "id": "User-kk5zyy2z-9z59-445z-83z7-9zzz3z5zz2202",
+        "email": "emma.brown@synergyos.com",
+        "name": "Emma Brown"
+    },
+    "createdDateTime": 1714892082018,
+    "modifiedDateTime": 1733142489187,
+    "content": "<p style=\"margin: 0\">Q2 Team Offsite Planning</p>",
+    "bodyPreview": "<p style=\"margin: 0\">Q2 Team Offsite Planning</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-kk074y912-647y-35yz-7yz2-5391y2zz2404",
+    "pathNames": "SynergyOS/HR/Events",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

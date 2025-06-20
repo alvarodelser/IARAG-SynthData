@@ -1,0 +1,28 @@
+{
+    "id": "Note-99515396-50d8-41fc-9ea8-ii5a3b24c96c",
+    "noteType": "LEGAL_COMPLIANCE",
+    "noteDate": 1731700888873,
+    "nameLower": "gdpr compliance checklist 2024",
+    "parentId": "Folder-l085c023-758e-46ad-8ce3-6402d3ff3515",
+    "name": "GDPR Compliance Checklist 2024",
+    "createdBy": {
+        "id": "User-l6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "claire.bennett@synergyos.com",
+        "name": "Claire Bennett"
+    },
+    "modifiedBy": {
+        "id": "User-l6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "claire.bennett@synergyos.com",
+        "name": "Claire Bennett"
+    },
+    "createdDateTime": 1713450482018,
+    "modifiedDateTime": 1731700889187,
+    "content": "<p style=\"margin: 0\"><strong>GDPR Compliance Checklist 2024</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Overview:</strong></p><p style=\"margin: 0\">Comprehensive checklist for ensuring GDPR compliance across all SynergyOS operations and products.</p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Data Processing:</strong></p><ul><li><p style=\"margin: 0\">Legal Basis ✓</p><ul><li><p style=\"margin: 0\">Consent mechanisms</p></li><li><p style=\"margin: 0\">Contract fulfillment</p></li><li><p style=\"margin: 0\">Legitimate interests</p></li></ul></li><li><p style=\"margin: 0\">Data Minimization ✓</p><ul><li><p style=\"margin: 0\">Purpose limitation</p></li><li><p style=\"margin: 0\">Storage limitation</p></li><li><p style=\"margin: 0\">Accuracy maintenance</p></li></ul></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>User Rights:</strong></p><ol><li><p style=\"margin: 0\">Access Rights ✓</p><ul><li><p style=\"margin: 0\">Data export feature</p></li><li><p style=\"margin: 0\">Profile viewing</p></li></ul></li><li><p style=\"margin: 0\">Rectification ✓</p><ul><li><p style=\"margin: 0\">Edit functionality</p></li><li><p style=\"margin: 0\">Update process</p></li></ul></li><li><p style=\"margin: 0\">Erasure ✓</p><ul><li><p style=\"margin: 0\">Account deletion</p></li><li><p style=\"margin: 0\">Data purge</p></li></ul></li><li><p style=\"margin: 0\">Portability ✓</p><ul><li><p style=\"margin: 0\">Data download</p></li><li><p style=\"margin: 0\">Format standards</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Documentation:</strong></p><ul><li><p style=\"margin: 0\">Privacy Policy ✓</p><ul><li><p style=\"margin: 0\">Last updated: March 1, 2024</p></li><li><p style=\"margin: 0\">Translations available</p></li></ul></li><li><p style=\"margin: 0\">Processing Records ✓</p><ul><li><p style=\"margin: 0\">Activity logs</p></li><li><p style=\"margin: 0\">Purpose records</p></li></ul></li><li><p style=\"margin: 0\">DPIAs ✓</p><ul><li><p style=\"margin: 0\">Risk assessments</p></li><li><p style=\"margin: 0\">Mitigation plans</p></li></ul></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Security Measures:</strong></p><ol><li><p style=\"margin: 0\">Technical Controls ✓</p><ul><li><p style=\"margin: 0\">Encryption at rest</p></li><li><p style=\"margin: 0\">Encryption in transit</p></li><li><p style=\"margin: 0\">Access controls</p></li></ul></li><li><p style=\"margin: 0\">Organizational Controls ✓</p><ul><li><p style=\"margin: 0\">Staff training</p></li><li><p style=\"margin: 0\">Policy enforcement</p></li><li><p style=\"margin: 0\">Audit procedures</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Third Parties:</strong></p><ul><li><p style=\"margin: 0\">Vendor Assessment ✓</p><ul><li><p style=\"margin: 0\">GDPR compliance</p></li><li><p style=\"margin: 0\">Contract clauses</p></li></ul></li><li><p style=\"margin: 0\">Data Transfer ✓</p><ul><li><p style=\"margin: 0\">SCCs in place</p></li><li><p style=\"margin: 0\">Transfer impact</p></li></ul></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Incident Response:</strong></p><ul><li><p style=\"margin: 0\">Breach Protocol ✓</p><ul><li><p style=\"margin: 0\">Detection measures</p></li><li><p style=\"margin: 0\">Response plan</p></li></ul></li><li><p style=\"margin: 0\">Notification Process ✓</p><ul><li><p style=\"margin: 0\">Authority contact</p></li><li><p style=\"margin: 0\">User communication</p></li></ul></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Next Review:</strong></p><p style=\"margin: 0\">Q3 2024 (September 30, 2024)</p>",
+    "bodyPreview": "<p style=\"margin: 0\"><strong>GDPR Compliance Checklist 2024</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Overview:</strong></p><p style=\"margin: 0\">Comprehensive checklist for ensuring GDPR compliance across all SynergyOS operations and products.</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-l085c023-758e-46ad-8ce3-6402d3ff3515",
+    "pathNames": "SynergyOS/Legal/Compliance",
+    "thumbnailCreated": false,
+    "colorTag": 9
+} 

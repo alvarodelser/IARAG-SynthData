@@ -1,0 +1,28 @@
+{
+    "id": "Note-ll612376-50ni-41pm-9ok8-uu5k3l24m96m",
+    "noteType": "MEETING_NOTE",
+    "noteDate": 1732364888873,
+    "nameLower": "daily standup notes 22/3",
+    "parentId": "Folder-bb085l023-758n-46ko-8mn3-6402n3pp2515",
+    "name": "Daily Standup Notes 22/3",
+    "createdBy": {
+        "id": "User-bb6lnn3l-0p60-556k-94n8-1cpp5n5qq2202",
+        "email": "jenny.kim@synergyos.com",
+        "name": "Jenny Kim"
+    },
+    "modifiedBy": {
+        "id": "User-bb6lnn3l-0p60-556k-94n8-1cpp5n5qq2202",
+        "email": "jenny.kim@synergyos.com",
+        "name": "Jenny Kim"
+    },
+    "createdDateTime": 1714114482018,
+    "modifiedDateTime": 1732364889187,
+    "content": "<p style=\"margin: 0\">standup 22/3</p><p style=\"margin: 0\">team: backend</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">carlos:</p><p style=\"margin: 0\">- still working on auth bug</p><p style=\"margin: 0\">- needs help w/ redis cache</p><p style=\"margin: 0\">- PR #445 ready for review</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">me:</p><p style=\"margin: 0\">- finished api docs</p><p style=\"margin: 0\">- starting notification service tmrw</p><p style=\"margin: 0\">- blocked by devops (need new env vars)</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">dave:</p><p style=\"margin: 0\">- sick today</p><p style=\"margin: 0\">- wfh rest of week</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">maria:</p><p style=\"margin: 0\">- elasticsearch upgrade done!!!</p><p style=\"margin: 0\">- helping w/ perf testing</p><p style=\"margin: 0\">- needs access to prod logs</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">notes:</p><p style=\"margin: 0\">- prod deploy @ 3pm</p><p style=\"margin: 0\">- new sprint starts mon</p><p style=\"margin: 0\">- team lunch next week?</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">blockers:</p><p style=\"margin: 0\">1. redis issue (carlos)</p><p style=\"margin: 0\">2. env vars (me)</p><p style=\"margin: 0\">3. prod access (maria)</p>",
+    "bodyPreview": "<p style=\"margin: 0\">standup 22/3</p><p style=\"margin: 0\">team: backend</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">carlos:</p><p style=\"margin: 0\">- still working on auth bug</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-bb085l023-758n-46ko-8mn3-6402n3pp2515",
+    "pathNames": "SynergyOS/Engineering/MeetingNotes",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

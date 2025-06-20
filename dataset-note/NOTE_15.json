@@ -1,0 +1,28 @@
+{
+    "id": "Note-55515396-50d8-41fc-9ea8-ee5a3b24c96c",
+    "noteType": "SECURITY_AUDIT",
+    "noteDate": 1732100888873,
+    "nameLower": "q1 2024 security audit report",
+    "parentId": "Folder-s085c023-758e-46ad-8ce3-6402d3ff3515",
+    "name": "Q1 2024 Security Audit Report",
+    "createdBy": {
+        "id": "User-s6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "david.patel@synergyos.com",
+        "name": "David Patel"
+    },
+    "modifiedBy": {
+        "id": "User-s6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "david.patel@synergyos.com",
+        "name": "David Patel"
+    },
+    "createdDateTime": 1713850482018,
+    "modifiedDateTime": 1732100889187,
+    "content": "<p style=\"margin: 0\"><strong>Q1 2024 Security Audit Report</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Executive Summary:</strong></p><p style=\"margin: 0\">Comprehensive security audit of SynergyOS infrastructure and applications conducted between January 1 - March 31, 2024.</p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Scope:</strong></p><ul><li><p style=\"margin: 0\">Infrastructure Security</p></li><li><p style=\"margin: 0\">Application Security</p></li><li><p style=\"margin: 0\">Data Protection</p></li><li><p style=\"margin: 0\">Access Control</p></li><li><p style=\"margin: 0\">Compliance Status</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Key Findings:</strong></p><ol><li><p style=\"margin: 0\">Critical Issues (0)</p></li><li><p style=\"margin: 0\">High Priority (2)</p><ul><li><p style=\"margin: 0\">Outdated TLS configuration</p></li><li><p style=\"margin: 0\">Weak password policy</p></li></ul></li><li><p style=\"margin: 0\">Medium Priority (5)</p><ul><li><p style=\"margin: 0\">Missing WAF rules</p></li><li><p style=\"margin: 0\">Incomplete audit logs</p></li><li><p style=\"margin: 0\">Outdated dependencies</p></li></ul></li><li><p style=\"margin: 0\">Low Priority (8)</p><ul><li><p style=\"margin: 0\">Documentation gaps</p></li><li><p style=\"margin: 0\">Minor config issues</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Compliance Status:</strong></p><ul><li><p style=\"margin: 0\">SOC 2 Type II: Compliant</p></li><li><p style=\"margin: 0\">GDPR: Compliant</p></li><li><p style=\"margin: 0\">ISO 27001: In Progress</p></li><li><p style=\"margin: 0\">HIPAA: N/A</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Recommendations:</strong></p><ol><li><p style=\"margin: 0\">High Priority</p><ul><li><p style=\"margin: 0\">Upgrade TLS to 1.3</p></li><li><p style=\"margin: 0\">Implement stronger password requirements</p></li></ul></li><li><p style=\"margin: 0\">Medium Priority</p><ul><li><p style=\"margin: 0\">Deploy additional WAF rules</p></li><li><p style=\"margin: 0\">Enhance logging system</p></li><li><p style=\"margin: 0\">Update dependencies</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Action Plan:</strong></p><ul><li><p style=\"margin: 0\">Week 1-2: Address high priority issues</p></li><li><p style=\"margin: 0\">Week 3-4: Resolve medium priority findings</p></li><li><p style=\"margin: 0\">Week 5-6: Document and verify fixes</p></li><li><p style=\"margin: 0\">Week 7-8: Follow-up audit</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Next Review:</strong></p><p style=\"margin: 0\">Q2 2024 (June 30, 2024)</p>",
+    "bodyPreview": "<p style=\"margin: 0\"><strong>Q1 2024 Security Audit Report</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Executive Summary:</strong></p><p style=\"margin: 0\">Comprehensive security audit of SynergyOS infrastructure and applications conducted between January 1 - March 31, 2024.</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-s085c023-758e-46ad-8ce3-6402d3ff3515",
+    "pathNames": "SynergyOS/Security/Audits",
+    "thumbnailCreated": false,
+    "colorTag": 5
+} 

@@ -1,0 +1,28 @@
+{
+    "id": "Note-ss389043-27wp-18xs-6wx5-bb2w0w91w63w",
+    "noteType": "PERSONAL_NOTE",
+    "noteDate": 1732969688873,
+    "nameLower": "auth service debugging notes",
+    "parentId": "Folder-ii852w790-425w-13wx-5wx0-3179w0xx0282",
+    "name": "Auth Service Debugging Notes",
+    "createdBy": {
+        "id": "User-ii3xww0x-7x37-223x-61x5-7xxx1x3xx0080",
+        "email": "maria.rodriguez@synergyos.com",
+        "name": "Maria Rodriguez"
+    },
+    "modifiedBy": {
+        "id": "User-ii3xww0x-7x37-223x-61x5-7xxx1x3xx0080",
+        "email": "maria.rodriguez@synergyos.com",
+        "name": "Maria Rodriguez"
+    },
+    "createdDateTime": 1714719282018,
+    "modifiedDateTime": 1732969689187,
+    "content": "<p style=\"margin: 0\">auth service errors - debugging notes</p><p style=\"margin: 0\">----------------------------</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">error from logs:</p><p style=\"margin: 0\">```</p><p style=\"margin: 0\">Error: REDIS_CONNECTION_ERROR</p><p style=\"margin: 0\">    at RedisStore.connect (/app/node_modules/connect-redis/index.js:92:23)</p><p style=\"margin: 0\">    at processTicksAndRejections (node:internal/process/task_queues:95:5)</p><p style=\"margin: 0\">    at async SessionManager.initialize (/app/src/services/session.ts:45:12)</p><p style=\"margin: 0\">Caused by: Error: connect ECONNREFUSED 127.0.0.1:6379</p><p style=\"margin: 0\">```</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">current config:</p><p style=\"margin: 0\">```typescript</p><p style=\"margin: 0\">const sessionConfig = {</p><p style=\"margin: 0\">  store: new RedisStore({</p><p style=\"margin: 0\">    host: process.env.REDIS_HOST || 'localhost',</p><p style=\"margin: 0\">    port: parseInt(process.env.REDIS_PORT || '6379'),</p><p style=\"margin: 0\">    password: process.env.REDIS_PASSWORD,</p><p style=\"margin: 0\">    ttl: 86400, // 24 hours</p><p style=\"margin: 0\">  }),</p><p style=\"margin: 0\">  secret: process.env.SESSION_SECRET,</p><p style=\"margin: 0\">  resave: false,</p><p style=\"margin: 0\">  saveUninitialized: false,</p><p style=\"margin: 0\">  cookie: { secure: true }</p><p style=\"margin: 0\">};</p><p style=\"margin: 0\">```</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">tried this fix:</p><p style=\"margin: 0\">```typescript</p><p style=\"margin: 0\">// added error handling</p><p style=\"margin: 0\">const store = new RedisStore(config);</p><p style=\"margin: 0\">store.on('error', (err) => {</p><p style=\"margin: 0\">  console.error('Redis store error:', err);</p><p style=\"margin: 0\">  // attempt reconnect</p><p style=\"margin: 0\">  setTimeout(() => store.connect(), 5000);</p><p style=\"margin: 0\">});</p><p style=\"margin: 0\">```</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">new error after fix:</p><p style=\"margin: 0\">```</p><p style=\"margin: 0\">TypeError: store.on is not a function</p><p style=\"margin: 0\">    at Object.<anonymous> (/app/src/config/session.ts:25:8)</p><p style=\"margin: 0\">    at Module._compile (node:internal/modules/cjs/loader:1376:14)</p><p style=\"margin: 0\">```</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">from redis cli:</p><p style=\"margin: 0\">```bash</p><p style=\"margin: 0\">$ redis-cli ping</p><p style=\"margin: 0\">Error: Connection refused</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">$ docker ps | grep redis</p><p style=\"margin: 0\">3a7b2c1d8e9f   redis:6.2   \"docker-entrypoint.s…\"   13 seconds ago   Up 12 seconds   6379/tcp   auth-redis</p><p style=\"margin: 0\">```</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">todo:</p><p style=\"margin: 0\">- check if redis running in container</p><p style=\"margin: 0\">- verify port mapping</p><p style=\"margin: 0\">- test connection from another service</p><p style=\"margin: 0\">- maybe switch to ioredis?</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">update: found solution here:</p><p style=\"margin: 0\">https://github.com/redis/node-redis/issues/1234</p><p style=\"margin: 0\">need to use REDIS_URL instead of separate host/port</p>",
+    "bodyPreview": "<p style=\"margin: 0\">auth service errors - debugging notes</p><p style=\"margin: 0\">----------------------------</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">error from logs:</p><p style=\"margin: 0\">```</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-ii852w790-425w-13wx-5wx0-3179w0xx0282",
+    "pathNames": "SynergyOS/Engineering/Debugging",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

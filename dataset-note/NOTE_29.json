@@ -1,0 +1,28 @@
+{
+    "id": "Note-jj490154-38lg-29nk-7mi6-ss3i1j02k74k",
+    "noteType": "DRAFT",
+    "noteDate": 1732192088873,
+    "nameLower": "project ideas - draft",
+    "parentId": "Folder-z863k801-536m-24il-6km1-4280l1nn1393",
+    "name": "Project Ideas - Draft",
+    "createdBy": {
+        "id": "User-z4jhll1j-8n38-223i-61l5-7ill1k3mm0080",
+        "email": "james.murphy@synergyos.com",
+        "name": "James Murphy"
+    },
+    "modifiedBy": {
+        "id": "User-z4jhll1j-8n38-223i-61l5-7ill1k3mm0080",
+        "email": "james.murphy@synergyos.com",
+        "name": "James Murphy"
+    },
+    "createdDateTime": 1713941682018,
+    "modifiedDateTime": 1732192089187,
+    "content": "<p style=\"margin: 0\"></p>",
+    "bodyPreview": "",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-z863k801-536m-24il-6km1-4280l1nn1393",
+    "pathNames": "SynergyOS/Personal/Ideas",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

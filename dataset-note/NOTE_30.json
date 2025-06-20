@@ -1,0 +1,28 @@
+{
+    "id": "Note-kk501265-49mh-30ol-8nj7-tt4j2k13l85l",
+    "noteType": "TROUBLESHOOTING",
+    "noteDate": 1732278488873,
+    "nameLower": "webpack error fix",
+    "parentId": "Folder-aa974k912-647n-35jm-7ln2-5391m2oo2404",
+    "name": "webpack error fix",
+    "createdBy": {
+        "id": "User-aa5kmm2k-9o49-334j-72m6-8jmm2l4nn1191",
+        "email": "tom.wilson@synergyos.com",
+        "name": "Tom Wilson"
+    },
+    "modifiedBy": {
+        "id": "User-aa5kmm2k-9o49-334j-72m6-8jmm2l4nn1191",
+        "email": "tom.wilson@synergyos.com",
+        "name": "Tom Wilson"
+    },
+    "createdDateTime": 1714028082018,
+    "modifiedDateTime": 1732278489187,
+    "content": "<p style=\"margin: 0\">Error from webpack build:</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">ERROR in ./src/components/Dashboard/index.tsx 42:19</p><p style=\"margin: 0\">Module parse failed: Unexpected token (42:19)</p><p style=\"margin: 0\">You may need an appropriate loader to handle this file type,</p><p style=\"margin: 0\">currently no loaders are configured to process this file.</p><p style=\"margin: 0\">| import { useState } from 'react';</p><p style=\"margin: 0\">| </p><p style=\"margin: 0\">> const Dashboard = () => {</p><p style=\"margin: 0\">|   const [data, setData] = useState(null);</p><p style=\"margin: 0\">|   return (</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">from SO: https://stackoverflow.com/questions/67163729</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">Try adding this to webpack.config.js:</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">module: {</p><p style=\"margin: 0\">  rules: [</p><p style=\"margin: 0\">    {</p><p style=\"margin: 0\">      test: /\\.tsx?$/,</p><p style=\"margin: 0\">      use: 'ts-loader',</p><p style=\"margin: 0\">      exclude: /node_modules/</p><p style=\"margin: 0\">    }</p><p style=\"margin: 0\">  ]</p><p style=\"margin: 0\">}</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">Also make sure typescript and ts-loader are installed:</p><p style=\"margin: 0\">npm install --save-dev typescript ts-loader</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">And add to tsconfig.json:</p><p style=\"margin: 0\">{</p><p style=\"margin: 0\">  \"compilerOptions\": {</p><p style=\"margin: 0\">    \"outDir\": \"./dist/\",</p><p style=\"margin: 0\">    \"sourceMap\": true,</p><p style=\"margin: 0\">    \"noImplicitAny\": true,</p><p style=\"margin: 0\">    \"module\": \"es6\",</p><p style=\"margin: 0\">    \"target\": \"es5\",</p><p style=\"margin: 0\">    \"jsx\": \"react\",</p><p style=\"margin: 0\">    \"allowJs\": true,</p><p style=\"margin: 0\">    \"moduleResolution\": \"node\"</p><p style=\"margin: 0\">  }</p><p style=\"margin: 0\">}</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">THIS FIXED IT!</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">other errors i got:</p><p style=\"margin: 0\">- Module not found: Error: Can't resolve 'react-dom'</p><p style=\"margin: 0\">- Cannot find module 'webpack' or its corresponding type declarations</p><p style=\"margin: 0\">- Type error: Property 'map' does not exist on type 'never'</p>",
+    "bodyPreview": "<p style=\"margin: 0\">Error from webpack build:</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">ERROR in ./src/components/Dashboard/index.tsx 42:19</p><p style=\"margin: 0\">Module parse failed: Unexpected token (42:19)</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-aa974k912-647n-35jm-7ln2-5391m2oo2404",
+    "pathNames": "SynergyOS/Personal/Troubleshooting",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

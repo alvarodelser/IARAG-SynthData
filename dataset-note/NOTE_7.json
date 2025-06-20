@@ -1,0 +1,28 @@
+{
+    "id": "Note-77515396-50d8-41fc-9ea8-hh5a3b24c96c",
+    "noteType": "TEAM_UPDATE",
+    "noteDate": 1732900888873,
+    "nameLower": "engineering team weekly update - week 12",
+    "parentId": "Folder-g085c023-758e-46ad-8ce3-6402d3ff3515",
+    "name": "Engineering Team Weekly Update - Week 12",
+    "createdBy": {
+        "id": "User-j6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "alex.zhang@synergyos.com",
+        "name": "Alex Zhang"
+    },
+    "modifiedBy": {
+        "id": "User-j6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "alex.zhang@synergyos.com",
+        "name": "Alex Zhang"
+    },
+    "createdDateTime": 1714650482018,
+    "modifiedDateTime": 1732900889187,
+    "content": "<p style=\"margin: 0\"><strong>Engineering Team Weekly Update</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Team Highlights:</strong></p><ul><li><p style=\"margin: 0\">Backend team completed API v2 migration</p></li><li><p style=\"margin: 0\">Frontend team launched new dashboard</p></li><li><p style=\"margin: 0\">DevOps automated deployment pipeline</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Key Metrics:</strong></p><ol><li><p style=\"margin: 0\">Performance</p><ul><li><p style=\"margin: 0\">API response time: 120ms (↓15%)</p></li><li><p style=\"margin: 0\">Frontend load time: 1.8s (↓20%)</p></li></ul></li><li><p style=\"margin: 0\">Quality</p><ul><li><p style=\"margin: 0\">Test coverage: 87% (+2%)</p></li><li><p style=\"margin: 0\">Bug backlog: 12 (↓5)</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Upcoming Focus:</strong></p><ul><li><p style=\"margin: 0\">Launch mobile app beta</p></li><li><p style=\"margin: 0\">Complete security audit</p></li><li><p style=\"margin: 0\">Start ML pipeline integration</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Team Updates:</strong></p><ul><li><p style=\"margin: 0\">Welcome new hire: Sarah (Frontend)</p></li><li><p style=\"margin: 0\">Mike promoted to Senior Engineer</p></li><li><p style=\"margin: 0\">Team lunch on Friday</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Blockers/Support Needed:</strong></p><ul><li><p style=\"margin: 0\">Cloud cost optimization review</p></li><li><p style=\"margin: 0\">Additional QA resources needed</p></li></ul>",
+    "bodyPreview": "<p style=\"margin: 0\"><strong>Engineering Team Weekly Update</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Team Highlights:</strong></p><ul><li><p style=\"margin: 0\">Backend team completed API v2 migration</p></li><li><p style=\"margin: 0\">Frontend team launched new dashboard</p></li><li><p style=\"margin: 0\">DevOps automated deployment pipeline</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Key Metrics:</strong></p><ol><li><p style=\"margin: 0\">Performance</p><ul><li><p style=\"margin: 0\">API response time: 120ms (↓15%)</p></li><li><p style=\"margin: 0\">Frontend load time: 1.8s (↓20%)</p></li></ul></li><li><p style=\"margin: 0\">Quality</p><ul><li><p style=\"margin: 0\">Test coverage: 87% (+2%)</p></li><li><p style=\"margin: 0\">Bug backlog: 12 (↓5)</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Upcoming Focus:</strong></p><ul><li><p style=\"margin: 0\">Launch mobile app beta</p></li><li><p style=\"margin: 0\">Complete security audit</p></li><li><p style=\"margin: 0\">Start ML pipeline integration</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Team Updates:</strong></p><ul><li><p style=\"margin: 0\">Welcome new hire: Sarah (Frontend)</p></li><li><p style=\"margin: 0\">Mike promoted to Senior Engineer</p></li><li><p style=\"margin: 0\">Team lunch on Friday</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Blockers/Support Needed:</strong></p><ul><li><p style=\"margin: 0\">Cloud cost optimization review</p></li><li><p style=\"margin: 0\">Additional QA resources needed</p></li></ul>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-g085c023-758e-46ad-8ce3-6402d3ff3515",
+    "pathNames": "SynergyOS/Engineering/TeamUpdates",
+    "thumbnailCreated": false,
+    "colorTag": 7
+} 

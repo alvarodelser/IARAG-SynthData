@@ -1,0 +1,28 @@
+{
+    "id": "Note-88515396-50d8-41fc-9ea8-hh5a3b24c96c",
+    "noteType": "TECHNICAL_DESIGN",
+    "noteDate": 1731800888873,
+    "nameLower": "microservices architecture design v2",
+    "parentId": "Folder-t085c023-758e-46ad-8ce3-6402d3ff3515",
+    "name": "Microservices Architecture Design v2",
+    "createdBy": {
+        "id": "User-t6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "alex.kumar@synergyos.com",
+        "name": "Alex Kumar"
+    },
+    "modifiedBy": {
+        "id": "User-t6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "alex.kumar@synergyos.com",
+        "name": "Alex Kumar"
+    },
+    "createdDateTime": 1713550482018,
+    "modifiedDateTime": 1731800889187,
+    "content": "<p style=\"margin: 0\"><strong>Microservices Architecture Design v2</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Overview:</strong></p><p style=\"margin: 0\">Technical design document for the next generation of SynergyOS microservices architecture.</p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Architecture Goals:</strong></p><ul><li><p style=\"margin: 0\">Scalability</p><ul><li><p style=\"margin: 0\">Handle 10x current load</p></li><li><p style=\"margin: 0\">Auto-scaling support</p></li></ul></li><li><p style=\"margin: 0\">Reliability</p><ul><li><p style=\"margin: 0\">99.99% uptime</p></li><li><p style=\"margin: 0\">Fault tolerance</p></li></ul></li><li><p style=\"margin: 0\">Maintainability</p><ul><li><p style=\"margin: 0\">Independent deployments</p></li><li><p style=\"margin: 0\">Monitoring & observability</p></li></ul></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Core Services:</strong></p><ol><li><p style=\"margin: 0\">Authentication Service</p><ul><li><p style=\"margin: 0\">JWT-based auth</p></li><li><p style=\"margin: 0\">OAuth2 integration</p></li><li><p style=\"margin: 0\">Role-based access</p></li></ul></li><li><p style=\"margin: 0\">User Service</p><ul><li><p style=\"margin: 0\">Profile management</p></li><li><p style=\"margin: 0\">Preferences</p></li><li><p style=\"margin: 0\">Activity tracking</p></li></ul></li><li><p style=\"margin: 0\">Content Service</p><ul><li><p style=\"margin: 0\">Document storage</p></li><li><p style=\"margin: 0\">Version control</p></li><li><p style=\"margin: 0\">Search indexing</p></li></ul></li><li><p style=\"margin: 0\">Analytics Service</p><ul><li><p style=\"margin: 0\">Usage metrics</p></li><li><p style=\"margin: 0\">Performance data</p></li><li><p style=\"margin: 0\">Business insights</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Technology Stack:</strong></p><ul><li><p style=\"margin: 0\">Backend</p><ul><li><p style=\"margin: 0\">Node.js / TypeScript</p></li><li><p style=\"margin: 0\">Go (performance-critical)</p></li></ul></li><li><p style=\"margin: 0\">Data Storage</p><ul><li><p style=\"margin: 0\">PostgreSQL</p></li><li><p style=\"margin: 0\">Redis</p></li><li><p style=\"margin: 0\">Elasticsearch</p></li></ul></li><li><p style=\"margin: 0\">Infrastructure</p><ul><li><p style=\"margin: 0\">Kubernetes</p></li><li><p style=\"margin: 0\">Docker</p></li><li><p style=\"margin: 0\">AWS</p></li></ul></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Communication:</strong></p><ol><li><p style=\"margin: 0\">Synchronous</p><ul><li><p style=\"margin: 0\">REST APIs</p></li><li><p style=\"margin: 0\">gRPC</p></li></ul></li><li><p style=\"margin: 0\">Asynchronous</p><ul><li><p style=\"margin: 0\">Kafka</p></li><li><p style=\"margin: 0\">RabbitMQ</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Security Measures:</strong></p><ul><li><p style=\"margin: 0\">Service mesh (Istio)</p></li><li><p style=\"margin: 0\">mTLS encryption</p></li><li><p style=\"margin: 0\">API gateway security</p></li><li><p style=\"margin: 0\">Rate limiting</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Monitoring & Logging:</strong></p><ul><li><p style=\"margin: 0\">Prometheus metrics</p></li><li><p style=\"margin: 0\">ELK stack</p></li><li><p style=\"margin: 0\">Jaeger tracing</p></li><li><p style=\"margin: 0\">Grafana dashboards</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Deployment Strategy:</strong></p><ol><li><p style=\"margin: 0\">CI/CD Pipeline</p><ul><li><p style=\"margin: 0\">GitHub Actions</p></li><li><p style=\"margin: 0\">ArgoCD</p></li></ul></li><li><p style=\"margin: 0\">Release Process</p><ul><li><p style=\"margin: 0\">Canary deployments</p></li><li><p style=\"margin: 0\">Blue-green updates</p></li></ul></li></ol>",
+    "bodyPreview": "<p style=\"margin: 0\"><strong>Microservices Architecture Design v2</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Overview:</strong></p><p style=\"margin: 0\">Technical design document for the next generation of SynergyOS microservices architecture.</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-t085c023-758e-46ad-8ce3-6402d3ff3515",
+    "pathNames": "SynergyOS/Engineering/Architecture",
+    "thumbnailCreated": false,
+    "colorTag": 8
+} 

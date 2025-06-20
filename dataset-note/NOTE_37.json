@@ -1,0 +1,28 @@
+{
+    "id": "Note-rr278932-16vo-07wr-5vw4-aa1v9v80v52v",
+    "noteType": "PERSONAL_NOTE",
+    "noteDate": 1732883288873,
+    "nameLower": "deployment commands - save for later",
+    "parentId": "Folder-hh741v689-314v-02vw-4vw9-2068v9ww9171",
+    "name": "Deployment Commands - Save for Later",
+    "createdBy": {
+        "id": "User-hh2wvv9w-6w26-112w-50w4-6www0w2ww9979",
+        "email": "carlos.garcia@synergyos.com",
+        "name": "Carlos Garcia"
+    },
+    "modifiedBy": {
+        "id": "User-hh2wvv9w-6w26-112w-50w4-6www0w2ww9979",
+        "email": "carlos.garcia@synergyos.com",
+        "name": "Carlos Garcia"
+    },
+    "createdDateTime": 1714632882018,
+    "modifiedDateTime": 1732883289187,
+    "content": "<p style=\"margin: 0\">useful commands for deployment (copy-pasted from terminal):</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">1. check pods status:</p><p style=\"margin: 0\">$ kubectl get pods -n production</p><p style=\"margin: 0\">NAME                           READY   STATUS    RESTARTS   AGE</p><p style=\"margin: 0\">api-server-5d8b9f7b59-2xkj4    1/1     Running   0          15h</p><p style=\"margin: 0\">redis-master-0                 1/1     Running   0          7d</p><p style=\"margin: 0\">redis-slave-744b9                1/1     Running   0          7d</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">2. scale replicas:</p><p style=\"margin: 0\">$ kubectl scale deployment api-server --replicas=5 -n production</p><p style=\"margin: 0\">deployment.apps/api-server scaled</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">3. check logs:</p><p style=\"margin: 0\">$ kubectl logs api-server-5d8b9f7b59-2xkj4 -n production</p><p style=\"margin: 0\">[2024-03-22 10:15:32] INFO: Server starting...</p><p style=\"margin: 0\">[2024-03-22 10:15:33] INFO: Connected to Redis</p><p style=\"margin: 0\">[2024-03-22 10:15:33] INFO: Migrations complete</p><p style=\"margin: 0\">[2024-03-22 10:15:34] ERROR: Failed to connect to metrics server</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">4. rollback if needed:</p><p style=\"margin: 0\">$ kubectl rollout undo deployment/api-server -n production</p><p style=\"margin: 0\">deployment.apps/api-server rolled back</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">5. check secrets:</p><p style=\"margin: 0\">$ kubectl get secrets -n production</p><p style=\"margin: 0\">NAME                  TYPE                                  DATA   AGE</p><p style=\"margin: 0\">api-secrets           Opaque                                6      45d</p><p style=\"margin: 0\">redis-creds          Opaque                                2      45d</p><p style=\"margin: 0\">tls-cert             kubernetes.io/tls                     2      45d</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">6. port forward for debugging:</p><p style=\"margin: 0\">$ kubectl port-forward svc/api-server 8080:80 -n production</p><p style=\"margin: 0\">Forwarding from 127.0.0.1:8080 -> 80</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">remember:</p><p style=\"margin: 0\">- always check pods after deploy</p><p style=\"margin: 0\">- watch metrics for 10min</p><p style=\"margin: 0\">- notify team in #deploys</p><p style=\"margin: 0\">- update runbook if needed</p>",
+    "bodyPreview": "<p style=\"margin: 0\">useful commands for deployment (copy-pasted from terminal):</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">1. check pods status:</p><p style=\"margin: 0\">$ kubectl get pods -n production</p><p style=\"margin: 0\">NAME                           READY   STATUS    RESTARTS   AGE</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-hh741v689-314v-02vw-4vw9-2068v9ww9171",
+    "pathNames": "SynergyOS/Engineering/DevOps",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

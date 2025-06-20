@@ -1,0 +1,28 @@
+{
+    "id": "Note-gg167821-05id-96kh-4jf3-pp0f8g79h41h",
+    "noteType": "MEETING_NOTE",
+    "noteDate": 1731932888873,
+    "nameLower": "frontend team sync - march 21",
+    "parentId": "Folder-w530h578-203j-91fi-3hj8-1957i8kk8060",
+    "name": "Frontend Team Sync - March 21",
+    "createdBy": {
+        "id": "User-w1geii8g-5k05-990f-38i2-4fii8h0jj7757",
+        "email": "alex.zhang@synergyos.com",
+        "name": "Alex Zhang"
+    },
+    "modifiedBy": {
+        "id": "User-w1geii8g-5k05-990f-38i2-4fii8h0jj7757",
+        "email": "alex.zhang@synergyos.com",
+        "name": "Alex Zhang"
+    },
+    "createdDateTime": 1713682482018,
+    "modifiedDateTime": 1731932889187,
+    "content": "<p style=\"margin: 0\">Frontend Team Sync 21/3</p><p style=\"margin: 0\">Present: me, Sarah, Mike, Jenny (remote)</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">Updates:</p><p style=\"margin: 0\">- new dashboard almost done, need QA signoff</p><p style=\"margin: 0\">- mobile nav still buggy on iOS - Mike looking into it</p><p style=\"margin: 0\">- Sarah finished user settings refactor!!!</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">TODO:</p><p style=\"margin: 0\">* fix that weird bug w/ notifications @Mike</p><p style=\"margin: 0\">* merge PR #234 after Jenny's review</p><p style=\"margin: 0\">* update storybook docs (ugh)</p><p style=\"margin: 0\">* schedule UX review for new features</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">Questions for next time:</p><p style=\"margin: 0\">- do we need e2e tests for everything??</p><p style=\"margin: 0\">- component library update timeline</p><p style=\"margin: 0\">- ???? check w/ backend team about API changes</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">Links:</p><p style=\"margin: 0\">design specs: https://figma.com/file/xyz123</p><p style=\"margin: 0\">sprint board: https://jira/board/sprint-44</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">next sync: thurs 2pm</p>",
+    "bodyPreview": "<p style=\"margin: 0\">Frontend Team Sync 21/3</p><p style=\"margin: 0\">Present: me, Sarah, Mike, Jenny (remote)</p><p style=\"margin: 0\"></p><p style=\"margin: 0\">Updates:</p><p style=\"margin: 0\">- new dashboard almost done, need QA signoff</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-w530h578-203j-91fi-3hj8-1957i8kk8060",
+    "pathNames": "SynergyOS/Engineering/TeamNotes",
+    "thumbnailCreated": false,
+    "colorTag": 0
+} 

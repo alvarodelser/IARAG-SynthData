@@ -1,0 +1,28 @@
+{
+    "id": "Note-66515396-50d8-41fc-9ea8-ff5a3b24c96c",
+    "noteType": "MARKETING_PLAN",
+    "noteDate": 1732000888873,
+    "nameLower": "spring 2024 product launch campaign",
+    "parentId": "Folder-m085c023-758e-46ad-8ce3-6402d3ff3515",
+    "name": "Spring 2024 Product Launch Campaign",
+    "createdBy": {
+        "id": "User-m6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "sophia.kim@synergyos.com",
+        "name": "Sophia Kim"
+    },
+    "modifiedBy": {
+        "id": "User-m6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "sophia.kim@synergyos.com",
+        "name": "Sophia Kim"
+    },
+    "createdDateTime": 1713750482018,
+    "modifiedDateTime": 1732000889187,
+    "content": "<p style=\"margin: 0\"><strong>Spring 2024 Product Launch Campaign</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Campaign Overview:</strong></p><p style=\"margin: 0\">Launch campaign for SynergyOS 2.0 with focus on AI-powered features and improved collaboration tools.</p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Target Audience:</strong></p><ul><li><p style=\"margin: 0\">Primary</p><ul><li><p style=\"margin: 0\">Enterprise IT Decision Makers</p></li><li><p style=\"margin: 0\">Development Team Leads</p></li><li><p style=\"margin: 0\">Product Managers</p></li></ul></li><li><p style=\"margin: 0\">Secondary</p><ul><li><p style=\"margin: 0\">Individual Developers</p></li><li><p style=\"margin: 0\">Startup Founders</p></li><li><p style=\"margin: 0\">Technical Consultants</p></li></ul></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Key Messages:</strong></p><ol><li><p style=\"margin: 0\">AI-Powered Productivity</p><ul><li><p style=\"margin: 0\">Smart task automation</p></li><li><p style=\"margin: 0\">Predictive analytics</p></li></ul></li><li><p style=\"margin: 0\">Enhanced Collaboration</p><ul><li><p style=\"margin: 0\">Real-time co-editing</p></li><li><p style=\"margin: 0\">Advanced sharing features</p></li></ul></li><li><p style=\"margin: 0\">Enterprise Security</p><ul><li><p style=\"margin: 0\">SOC 2 compliance</p></li><li><p style=\"margin: 0\">End-to-end encryption</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Campaign Channels:</strong></p><ul><li><p style=\"margin: 0\">Digital</p><ul><li><p style=\"margin: 0\">LinkedIn Ads</p></li><li><p style=\"margin: 0\">Google Ads</p></li><li><p style=\"margin: 0\">Tech blogs</p></li></ul></li><li><p style=\"margin: 0\">Content</p><ul><li><p style=\"margin: 0\">Blog posts</p></li><li><p style=\"margin: 0\">Whitepapers</p></li><li><p style=\"margin: 0\">Case studies</p></li></ul></li><li><p style=\"margin: 0\">Events</p><ul><li><p style=\"margin: 0\">Virtual launch event</p></li><li><p style=\"margin: 0\">Developer workshops</p></li></ul></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Timeline:</strong></p><ol><li><p style=\"margin: 0\">Pre-launch (March 15-31)</p><ul><li><p style=\"margin: 0\">Teaser campaign</p></li><li><p style=\"margin: 0\">Beta access</p></li></ul></li><li><p style=\"margin: 0\">Launch (April 1)</p><ul><li><p style=\"margin: 0\">Press release</p></li><li><p style=\"margin: 0\">Virtual event</p></li></ul></li><li><p style=\"margin: 0\">Post-launch (April 2-30)</p><ul><li><p style=\"margin: 0\">Feature highlights</p></li><li><p style=\"margin: 0\">Customer stories</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Budget Allocation:</strong></p><ul><li><p style=\"margin: 0\">Digital Ads: $50,000</p></li><li><p style=\"margin: 0\">Content Creation: $30,000</p></li><li><p style=\"margin: 0\">Events: $20,000</p></li><li><p style=\"margin: 0\">PR: $15,000</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Success Metrics:</strong></p><ul><li><p style=\"margin: 0\">New user signups: 5,000</p></li><li><p style=\"margin: 0\">Enterprise leads: 500</p></li><li><p style=\"margin: 0\">Media mentions: 50</p></li><li><p style=\"margin: 0\">Event attendance: 2,000</p></li></ul>",
+    "bodyPreview": "<p style=\"margin: 0\"><strong>Spring 2024 Product Launch Campaign</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Campaign Overview:</strong></p><p style=\"margin: 0\">Launch campaign for SynergyOS 2.0 with focus on AI-powered features and improved collaboration tools.</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-m085c023-758e-46ad-8ce3-6402d3ff3515",
+    "pathNames": "SynergyOS/Marketing/Campaigns",
+    "thumbnailCreated": false,
+    "colorTag": 6
+} 

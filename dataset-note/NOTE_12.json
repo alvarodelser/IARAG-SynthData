@@ -1,0 +1,28 @@
+{
+    "id": "Note-22515396-50d8-41fc-9ea8-bb5a3b24c96c",
+    "noteType": "POLICY",
+    "noteDate": 1732400888873,
+    "nameLower": "updated remote work policy 2024",
+    "parentId": "Folder-h085c023-758e-46ad-8ce3-6402d3ff3515",
+    "name": "Updated Remote Work Policy 2024",
+    "createdBy": {
+        "id": "User-h6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "sarah.chen@synergyos.com",
+        "name": "Sarah Chen"
+    },
+    "modifiedBy": {
+        "id": "User-h6badd3b-0f50-445a-83d7-9add8d5e8202",
+        "email": "sarah.chen@synergyos.com",
+        "name": "Sarah Chen"
+    },
+    "createdDateTime": 1714150482018,
+    "modifiedDateTime": 1732400889187,
+    "content": "<p style=\"margin: 0\"><strong>Remote Work Policy Update - 2024</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Effective Date:</strong> April 1, 2024</p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Overview:</strong></p><p style=\"margin: 0\">SynergyOS is updating its remote work policy to better support our global workforce while maintaining collaboration and productivity.</p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Key Changes:</strong></p><ul><li><p style=\"margin: 0\">Flexible Work Hours</p><ul><li><p style=\"margin: 0\">Core hours: 10 AM - 3 PM local time</p></li><li><p style=\"margin: 0\">Flexible scheduling outside core hours</p></li></ul></li><li><p style=\"margin: 0\">Office Presence</p><ul><li><p style=\"margin: 0\">Minimum 2 days per week in office</p></li><li><p style=\"margin: 0\">Team leads coordinate in-office days</p></li></ul></li><li><p style=\"margin: 0\">Equipment Support</p><ul><li><p style=\"margin: 0\">Annual WFH setup allowance: $500</p></li><li><p style=\"margin: 0\">IT support for home office</p></li></ul></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Requirements:</strong></p><ol><li><p style=\"margin: 0\">Reliable Internet Connection</p><ul><li><p style=\"margin: 0\">Minimum 50Mbps upload/download</p></li><li><p style=\"margin: 0\">Backup connection recommended</p></li></ul></li><li><p style=\"margin: 0\">Workspace Setup</p><ul><li><p style=\"margin: 0\">Dedicated, quiet work area</p></li><li><p style=\"margin: 0\">Ergonomic setup required</p></li></ul></li><li><p style=\"margin: 0\">Communication</p><ul><li><p style=\"margin: 0\">Available during core hours</p></li><li><p style=\"margin: 0\">Calendar always updated</p></li></ul></li></ol><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Implementation Timeline:</strong></p><ul><li><p style=\"margin: 0\">March 15-31: Department planning</p></li><li><p style=\"margin: 0\">April 1: Policy effective</p></li><li><p style=\"margin: 0\">April 15: Full compliance expected</p></li></ul><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Contact:</strong></p><p style=\"margin: 0\">For questions or clarifications, contact HR at hr@synergyos.com</p>",
+    "bodyPreview": "<p style=\"margin: 0\"><strong>Remote Work Policy Update - 2024</strong></p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Effective Date:</strong> April 1, 2024</p><p style=\"margin: 0\"></p><p style=\"margin: 0\"><strong>Overview:</strong></p><p style=\"margin: 0\">SynergyOS is updating its remote work policy to better support our global workforce while maintaining collaboration and productivity.</p>",
+    "repo": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827",
+    "deleted_at": 0,
+    "pathIds": "Repo-7032f89f-1805-46b7-8f9f-d74ccffe0827/Folder-h085c023-758e-46ad-8ce3-6402d3ff3515",
+    "pathNames": "SynergyOS/HR/Policies",
+    "thumbnailCreated": false,
+    "colorTag": 2
+} 
