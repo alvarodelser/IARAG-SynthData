@@ -8,39 +8,52 @@ import questionary
 FOLDER_PREFIX = "dataset-"
 OPTIONS_PATH = "classification_options.json"
 RESULTS_CSV = "results.csv"
-
 VALIDATORS = ["ALVARO", "VIRGINIA", "PAUL", "CARLOS"]
+
+FIELDNAMES = ['file', 'dataset'] + VALIDATORS
 
 def load_classification_options():
     with open(OPTIONS_PATH, "r") as f:
         return json.load(f)
 
-def initialize_results_csv(files):
-    """Create results.csv with empty entries if not present."""
-    if not os.path.exists(RESULTS_CSV):
-        with open(RESULTS_CSV, 'w', newline='') as f:
-            writer = csv.DictWriter(f, fieldnames=['file'] + VALIDATORS)
-            writer.writeheader()
-            for file in files:
-                writer.writerow({'file': file.name, **{v: '' for v in VALIDATORS}})
+def initialize_results_csv(files, dataset_type):
+    """Ensure results.csv exists and includes all files for this dataset."""
+    existing_rows = {}
+    if os.path.exists(RESULTS_CSV):
+        with open(RESULTS_CSV, newline='') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                existing_rows[row['file']] = row
+
+    # Add missing files for this dataset
+    for file in files:
+        if file.name not in existing_rows:
+            existing_rows[file.name] = {
+                'file': file.name,
+                'dataset': dataset_type,
+                **{v: '' for v in VALIDATORS}
+            }
+
+    # Write full results table
+    with open(RESULTS_CSV, 'w', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
+        writer.writeheader()
+        for row in existing_rows.values():
+            writer.writerow(row)
 
 def load_results():
-    """Load the full table of results as a dict keyed by filename."""
     results = {}
-    if not os.path.exists(RESULTS_CSV):
-        return results
     with open(RESULTS_CSV, newline='') as f:
         reader = csv.DictReader(f)
         for row in reader:
             results[row['file']] = row
     return results
 
-def save_results(all_rows):
-    """Write the full table back to the CSV file."""
+def save_results(results):
     with open(RESULTS_CSV, 'w', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=['file'] + VALIDATORS)
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
         writer.writeheader()
-        for row in all_rows.values():
+        for row in results.values():
             writer.writerow(row)
 
 def display_json(filepath):
@@ -73,15 +86,20 @@ def classify_files():
         return
 
     files = list(dataset_path.glob("*.json"))
-    initialize_results_csv(files)
+    initialize_results_csv(files, dataset_type)
     results = load_results()
 
     for file in files:
         row = results.get(file.name)
         if not row:
-            row = {'file': file.name, **{v: '' for v in VALIDATORS}}
-            results[file.name] = row
-        if row[validator]:
+            continue  # should not happen if initialization was correct
+
+        # Validate it's the correct dataset
+        if row['dataset'] != dataset_type:
+            continue
+
+        # Skip if already labeled by this validator
+        if row.get(validator):
             continue
 
         display_json(file)
@@ -93,7 +111,7 @@ def classify_files():
 
         row[validator] = label
         results[file.name] = row
-        save_results(results)  # Save after each classification
+        save_results(results)
 
 if __name__ == "__main__":
     classify_files()
